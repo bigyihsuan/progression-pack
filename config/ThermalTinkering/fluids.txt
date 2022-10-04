@@ -146,6 +146,17 @@ diesel                                            (immersivepetroleum:fluid_dies
 lubricant                                         (immersivepetroleum:fluid_lubricant)                                             = Lubricant
 gasoline                                          (immersivepetroleum:fluid_gasoline)                                              = Gasoline
 napalm                                            (immersivepetroleum:fluid_napalm)                                                = Napalm
+essence                                           (industrialforegoing:essence)                                                    = Essence
+milk                                              (industrialforegoing:milk)                                                       = Milk
+meat                                              (industrialforegoing:meat)                                                       = Liquid Meat
+latex                                             (industrialforegoing:latex)                                                      = Latex
+sewage                                            (industrialforegoing:sewage)                                                     = Sewage
+sludge                                            (industrialforegoing:sludge)                                                     = Sludge
+biofuel                                           (industrialforegoing:biofuel)                                                    = Biofuel
+if.pink_slime                                     (industrialforegoing:if.pink_slime)                                              = Pink Slime
+if.protein                                        (industrialforegoing:if.protein)                                                 = Protein
+if.ore_fluid_raw                                  ([no block])                                                                     = Raw Ore Meat
+if.ore_fluid_fermented                            ([no block])                                                                     = Fermented Ore Meat
 exhauststeam                                      (immersivetech:exhauststeam)                                                     = Exhaust Steam
 distwater                                         (immersivetech:fluiddistwater)                                                   = Distilled Water
 fluegas                                           (immersivetech:fluidfluegas)                                                     = Flue Gas
@@ -214,7 +225,6 @@ sugar                                             (nuclearcraft:fluid_sugar)    
 gelatin                                           (nuclearcraft:fluid_gelatin)                                                     = Molten Gelatin
 hydrated_gelatin                                  (nuclearcraft:fluid_hydrated_gelatin)                                            = Hydrated Gelatin
 marshmallow                                       (nuclearcraft:fluid_marshmallow)                                                 = Liquid Marshmallow
-milk                                              (nuclearcraft:fluid_milk)                                                        = Milk
 lif                                               (nuclearcraft:fluid_lif)                                                         = Molten Lithium Fluoride
 bef2                                              (nuclearcraft:fluid_bef2)                                                        = Molten Beryllium Fluoride
 flibe                                             (nuclearcraft:fluid_flibe)                                                       = Molten FLiBe Salt Mixture

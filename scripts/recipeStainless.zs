@@ -58,16 +58,9 @@ Compactor.addPressRecipe(plate, ingot, 4000);
 pressurizer.addRecipe([ingot, plate]);
 
 // STAINLESS STEEL CHAIN
-ArcFurnace.addRecipe(ingot,
-    dust,
-    <immersiveengineering:material:7>,
-    2000, 2048);
+ArcFurnace.addRecipe(ingot, dust, <immersiveengineering:material:7>, 200, 2048);
 Crusher.addRecipe(dust, impureDust, 2000);
-ArcFurnace.addRecipe(impureDust,
-    <ore:dustSteel>,
-    <immersiveengineering:material:7>,
-    2000, 2048,
-    [<ore:dustAluminum>, <ore:dustNickel>], "Alloying");
+ArcFurnace.addRecipe(impureDust, <ore:ingotSteel>, <immersiveengineering:material:7>, 200, 2048, [<ore:dustAluminum>, <ore:dustNickel>], "Alloying");
 
 // dust recipes
 Crusher.addRecipe(dust, ingot, 2000);
