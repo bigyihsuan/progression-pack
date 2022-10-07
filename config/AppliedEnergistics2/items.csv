@@ -2236,6 +2236,8 @@ ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
 ic2:cable:0, Copper Cable
 ic2:cable:0, Insulated Copper Cable
 ic2:cable:1, Glass Fibre Cable
@@ -6193,41 +6195,41 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
 tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -7569,78 +7571,78 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Armor Trim Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Helmet Core Cast
 tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Bowstring Cast
 tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Boots Core Cast
 tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -8599,6 +8601,12 @@ immersiveengineering:metal_device1:9, Floodlight
 immersiveengineering:metal_device1:10, Chemthrower Turret
 immersiveengineering:metal_device1:11, Gun Turret
 immersiveengineering:metal_device1:13, Garden Cloche
+engineersdoors:fencegate_aluminium, Aluminum Fence Gate
+engineersdoors:fencegate_steel, Steel Fence Gate
+engineersdoors:fencegate_treated, Treated Wood Fence Gate
+engineersdoors:trapdoor_concrete, Concrete Trapdoor
+engineersdoors:trapdoor_steel, Steel Trapdoor
+engineersdoors:trapdoor_treated, Treated Wood Trapdoor
 engineersdoors:door_concrete, Concrete Door
 engineersdoors:door_concrete_ornate, Concrete Door
 engineersdoors:door_concrete_reinforced, Concrete Door
@@ -8608,12 +8616,6 @@ engineersdoors:door_steel_reinforced, Steel Door
 engineersdoors:door_treated, Treated Wood Door
 engineersdoors:door_treated_ornate, Treated Wood Door
 engineersdoors:door_treated_reinforced, Treated Wood Door
-engineersdoors:trapdoor_concrete, Concrete Trapdoor
-engineersdoors:trapdoor_steel, Steel Trapdoor
-engineersdoors:trapdoor_treated, Treated Wood Trapdoor
-engineersdoors:fencegate_aluminium, Aluminum Fence Gate
-engineersdoors:fencegate_steel, Steel Fence Gate
-engineersdoors:fencegate_treated, Treated Wood Fence Gate
 immersivecables:coil_block:0, Fluix Coil Block
 immersivecables:coil_block:1, Dense Fluix Coil Block
 immersivecables:coil_block:2, Quartz Fiber Coil Block
@@ -9578,12 +9580,12 @@ tcomplement:scorched_stairs_brick_small:0, Small Scorched Bricks Stairs
 tcomplement:scorched_stairs_road:0, Scorched Road Stairs
 tcomplement:scorched_stairs_tile:0, Scorched Tile Stairs
 tcomplement:scorched_stairs_creeper:0, Scorched Creeperface Stairs
+torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
-torchmaster:frozen_pearl, Frozen Pearl
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
 wct:magnet_card, Magnet Card
@@ -9650,6 +9652,12 @@ contenttweaker:ingot_stainless, Stainless Steel Ingot
 contenttweaker:plate_stainless, Stainless Steel Plate
 contenttweaker:dust_stainless, Stainless Steel Dust
 contenttweaker:dust_impure_stainless, Impure Stainless Steel Mixture
+contenttweaker:cable_aluminum, Aluminum Cable
+contenttweaker:cable_electrum, Electrum Cable
+contenttweaker:cable_steel, Steel Cable
+contenttweaker:wire_gold, Gold Wire
+contenttweaker:wire_iron, Iron Wire
+contenttweaker:wire_tin, Tin Wire
 buildcraftcore:spring:0, Water Spring
 buildcraftcore:spring:1, Oil Spring
 buildcraftcore:decorated:0, tile.decorated.destroy.name
@@ -10003,6 +10011,18 @@ industrialforegoing:conveyor:13, Green§r Conveyor Belt
 industrialforegoing:conveyor:14, Red§r Conveyor Belt
 industrialforegoing:conveyor:15, Black§r Conveyor Belt
 industrialforegoing:black_hole_label, Black Hole Label
+threng:machine:0, Fluix Aggregator
+threng:machine:1, Pulse Centrifuge
+threng:machine:2, ME Circuit Etcher
+threng:machine:3, Preemptive Assembly Unit
+threng:machine:4, ME Level Maintainer
+threng:machine:5, Crystal Energizer
+threng:big_assembler:0, Mass Assembler Frame
+threng:big_assembler:1, Mass Assembler Vent
+threng:big_assembler:2, Mass Assembler Controller
+threng:big_assembler:3, MA Pattern Provider
+threng:big_assembler:4, MA Crafting Coprocessor
+threng:big_assembler:5, Mass Assembler IO Port
 threng:material:0, Fluix Steel Ingot
 threng:material:1, Carbonic Fluix Complex
 threng:material:2, Fluix-Plated Iron Ingot
@@ -10018,18 +10038,6 @@ threng:material:11, Speculation Core (16x)
 threng:material:12, Speculation Core (32x)
 threng:material:13, Speculation Core (64x)
 threng:material:14, Speculative Processor
-threng:machine:0, Fluix Aggregator
-threng:machine:1, Pulse Centrifuge
-threng:machine:2, ME Circuit Etcher
-threng:machine:3, Preemptive Assembly Unit
-threng:machine:4, ME Level Maintainer
-threng:machine:5, Crystal Energizer
-threng:big_assembler:0, Mass Assembler Frame
-threng:big_assembler:1, Mass Assembler Vent
-threng:big_assembler:2, Mass Assembler Controller
-threng:big_assembler:3, MA Pattern Provider
-threng:big_assembler:4, MA Crafting Coprocessor
-threng:big_assembler:5, Mass Assembler IO Port
 jaopca:block_blockcertusquartz, Block of %s
 jaopca:block_blockchargedcertusquartz, Block of %s
 jaopca:item_dustardite, %s Dust

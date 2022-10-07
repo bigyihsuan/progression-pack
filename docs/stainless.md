@@ -2,26 +2,32 @@
 
 ```mermaid
 graph TD;
-ssi[Stainless Steel Ingot]
-ssd[Stainless Steel Dust]
-issm[Impure Stainless Steel Mixture]
-pn[Pulverized Nickel]
-pa[Pulverized Aluminum]
-si[Steel Ingot]
-ni[Nickel Ingot]
-ai[Aluminum Ingot]
-gin[Grains of Infinity]
 
-AF1([Arc Furnace])
-CR1([Crusher])
-AF2([Arc Furnace])
-CR2([Crusher])
+classDef item fill:#660;
+classDef fluid fill:#009;
+classDef machine fill:#666;
+
+ssi[Stainless Steel Ingot]:::item
+ssd[Stainless Steel Dust]:::item
+issm[Impure Stainless Steel Mixture]:::item
+pn[Pulverized Nickel]:::item
+pa[Pulverized Aluminum]:::item
+si[Steel Ingot]:::item
+ni[Nickel Ingot]:::item
+ai[Aluminum Ingot]:::item
+gin[Grains of Infinity]:::item
+
+AF1([Arc Furnace]):::machine
+CR1([Crusher]):::machine
+AF2([Arc Furnace]):::machine
+CR2([Crusher]):::machine
 
 
 ssd --> AF1 --> ssi
 gin --additive--> AF1
 issm --> CR1 --> ssd
-si & pn & pa --> AF2 --> issm
+si --> AF2 --> issm
+pn & pa  --additive--> AF2
 ni --> CR2 --> pn
 ai --> CR2 --> pa
 ```

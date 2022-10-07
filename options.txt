@@ -91,6 +91,9 @@ key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
 key_key.toggle_shaders:0
+key_key.conarm.toggle_helm.desc:34
+key_key.conarm.toggle_chest.desc:35
+key_key.conarm.toggle_leg.desc:36
 key_key.open_wct.desc:0
 key_key.cycle_magnet_mode.desc:0
 key_key.open_wft.desc:0
@@ -111,6 +114,8 @@ key_key.jei.toggleBookmarkOverlay:0
 key_key.cofh.multimode:47
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
+key_key.clienttweaks.disable_step_assist:0
+key_key.clienttweaks.hide_offhand_item:0
 key_key.craftingtweaks.rotate:0
 key_key.craftingtweaks.rotate_counter_clockwise:0
 key_key.craftingtweaks.balance:0
@@ -128,11 +133,11 @@ key_key.craftingtweaks.refill_last:15
 key_key.craftingtweaks.refill_last_stack:15
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
-key_invtweaks.key.sort:19
 key_mekanism.key.mode:50
 key_mekanism.key.armorMode:34
 key_mekanism.key.feetMode:35
 key_mekanism.key.voice:22
+key_invtweaks.key.sort:19
 key_enderio.keybind.inventory:23
 key_enderio.keybind.dsu:0
 key_enderio.keybind.glidertoggle:34

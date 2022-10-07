@@ -1,41 +1,48 @@
 # Synthetic Rubber
 
-(not from trees, but from oil)
+not from trees (ish), but from oil
 
 ```mermaid
-graph TD;
+flowchart TD
 
-sr[IC2 Sticky Resin]
-rb[IC2 Rubber]
-sf[Sulfur]
+classDef item fill:#660;
+classDef fluid fill:#009;
+classDef machine fill:#666;
 
-oil{{IP/BC Oil}}
-wat{{VAN Water}}
-res{{TE Resin}}
-lrb{{CON Liquid Rubber}}
+wat{{VAN Water}}:::fluid
+oil{{BC VERY HOT Oil}}:::fluid
+REF([IE Refinery]):::machine
+diloil{{CON Diluted Oil}}:::fluid
 
-DS1([IMT Distillation Tower])
-DIST([IMT Distiller])
-MIX([IE Mixer])
+DS1([IP Distillation Tower]):::machine
+MIX([IE Mixer]):::machine
+res{{TE Resin}}:::fluid
 
-oil & wat --1000mB--> MIX --1000mB--> res
+lrb{{CON Liquid Rubber}}:::fluid
+sr[IC2 Sticky Resin]:::item
+sf[Sulfur]:::item
+DIST([IMT Distiller]):::machine
+rb[IC2 Rubber]:::item
+
+BOT1([IE Bottling Machine]):::machine
+BOT2([IE Bottling Machine]):::machine
+cable[IC2 Uninsulated Cables]:::item
+insCable[IC2 Insulated Cables]:::item
+wire[IE Uninsulated Wire Coils]:::item
+insWire[IE Insulated Wire Coils]:::item
+
+diloil --1000mB--> MIX --1000mB--> res
+oil & wat --1000mB--> REF --2000mB--> diloil
 sr --> MIX
-res --1000mB--> DS1 --1000mB--> lrb
+res --1000mB--> DS1
 DS1 --10mB--> res
+DS1 --90mB--> diloil
+DS1 --900mB--> lrb
 DS1 --10% chance--> sr
-sf --> DIST
 lrb --100mB--> DIST --> rb
-
-
-BOT1([IE Bottling Machine])
-BOT2([IE Bottling Machine])
-cable[IC2 Uninsulated Cables]
-insCable[IC2 Insulated Cables]
-wire[IE Uninsulated Wire Coils]
-insWire[IE Insulated Wire Coils]
+sf --> DIST
 
 cable --> BOT1 --> insCable
 wire --> BOT2 --> insWire
-lrb --> BOT1 & BOT2
-
+lrb --500mB/operation--> BOT1 & BOT2
 ```

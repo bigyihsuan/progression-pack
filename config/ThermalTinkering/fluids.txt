@@ -90,6 +90,8 @@ stellar_alloy                                     (enderio:block_fluid_stellar_a
 crystalline_pink_slime                            (enderio:block_fluid_crystalline_pink_slime)                                     = Molten Crystalline Pink Slime
 energetic_silver                                  (enderio:block_fluid_energetic_silver)                                           = Molten Energetic Silver
 vivid_alloy                                       (enderio:block_fluid_vivid_alloy)                                                = Molten Vivid Alloy
+rubber                                            (contenttweaker:rubber)                                                          = Liquid Rubber
+oil_diluted                                       (contenttweaker:oil_diluted)                                                     = Diluted Oil
 ic2uu_matter                                      (ic2:uu_matter)                                                                  = UU-Matter
 ic2construction_foam                              (ic2:construction_foam)                                                          = Construction Foam
 ic2coolant                                        (ic2:coolant)                                                                    = IC2 Coolant
