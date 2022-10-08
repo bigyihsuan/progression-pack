@@ -1,11 +1,15 @@
 {
 	title: "Engineering Blocks",
 	x: -0.5d,
-	y: 2.0d,
+	y: 1.0d,
 	shape: "gear",
 	description: "The building blocks of engineering",
 	text: [
 		""
+	],
+	dependencies: [
+		"e3dbed73",
+		"65c85501"
 	],
 	tasks: [{
 		uid: "bae26741",

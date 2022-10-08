@@ -1,0 +1,65 @@
+{
+	title: "Basic Alloys",
+	x: 0.5d,
+	y: -0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"436cf56e"
+	],
+	tasks: [{
+		uid: "42a304e3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotInvar",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotInvar"
+				}
+			}
+		}]
+	},
+	{
+		uid: "1b4d2abc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotBronze",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotBronze"
+				}
+			}
+		}]
+	},
+	{
+		uid: "0a647b0e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotConstantan",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotConstantan"
+				}
+			}
+		}]
+	}]
+}

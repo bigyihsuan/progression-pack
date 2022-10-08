@@ -1,0 +1,35 @@
+{
+	title: "Engineer's Blueprints",
+	x: -5.5d,
+	y: -0.5d,
+	text: [
+		"You will need these to craft more materials for items further on."
+	],
+	dependencies: [
+		"e6404c13"
+	],
+	tasks: [{
+		uid: "02363633",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "components"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3b1372ba",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "molds"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

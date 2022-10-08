@@ -1,13 +1,14 @@
 {
 	title: "Arc Furnace",
 	x: -1.5d,
-	y: 4.0d,
+	y: 2.5d,
 	description: "Shockingly Hot",
 	text: [
 		""
 	],
 	dependencies: [
-		"500b003a"
+		"500b003a",
+		"de6aea0d"
 	],
 	tasks: [{
 		uid: "bce36513",

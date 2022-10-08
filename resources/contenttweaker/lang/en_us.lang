@@ -13,6 +13,7 @@ item.contenttweaker.wire_tin.name=Tin Wire
 item.contenttweaker.wire_iron.name=Iron Wire
 
 tile.contenttweaker.block_coil_redstone.name=Redstone Coil Block
+tile.contenttweaker.block_bricks_treated.name=Treated Bricks
 
 fluid.rubber=Liquid Rubber
 fluid.oil_diluted=Diluted Oil

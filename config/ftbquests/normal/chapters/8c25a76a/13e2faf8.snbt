@@ -1,0 +1,16 @@
+{
+	title: "(Primitive) Blast Furnace",
+	x: -1.5d,
+	y: -2.5d,
+	dependencies: [
+		"0bb448a5"
+	],
+	tasks: [{
+		uid: "75abee6d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 1"
+		}],
+		count: 27L
+	}]
+}

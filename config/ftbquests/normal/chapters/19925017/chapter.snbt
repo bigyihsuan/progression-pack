@@ -1,0 +1,10 @@
+{
+	title: "Gates",
+	icon: "contenttweaker:ingot_stainless",
+	description: [
+		"Sorry, we'll have to stop you here."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

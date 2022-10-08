@@ -1,7 +1,7 @@
 {
 	title: "Crusher",
 	x: 0.5d,
-	y: 4.0d,
+	y: 2.5d,
 	description: "Crush, With a Rock, I Must",
 	text: [
 		""

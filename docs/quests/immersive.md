@@ -84,7 +84,7 @@ bronze --> light
 invar --> heavy
 const --> redst
 nether --> blaze
-blaze & seared --> pri_blast
+blaze & brick --> pri_blast
 coke & pri_blast --> steel
 steel --> engin
 steel --> plate

@@ -1,16 +1,19 @@
 {
 	title: "Stainless Steel",
 	x: -0.5d,
-	y: 5.5d,
+	y: 4.0d,
 	shape: "gear",
 	description: "Wow, it's shiny!",
 	text: [
-		""
+		"Stainless Steel is the Gating Material for this chapter.",
+		"",
+		"Note that you will need 8192 RF/t for 10 seconds twice in the crafting chain for Stainless Steel. Build up your HV power production using Immersive Technology."
 	],
 	dependencies: [
 		"216d5e0d",
 		"cbd014b7"
 	],
+	size: 1.5d,
 	tasks: [{
 		uid: "e0eb7342",
 		type: "item",
