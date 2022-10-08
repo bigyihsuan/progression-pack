@@ -8,6 +8,9 @@
     },
     "ledger.help.is_open": {
       "boolean": false
+    },
+    "ledger.owner.is_open": {
+      "boolean": false
     }
   }
 }

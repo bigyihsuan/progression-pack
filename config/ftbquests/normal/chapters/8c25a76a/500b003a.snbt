@@ -1,0 +1,45 @@
+{
+	title: "Engineering Blocks",
+	x: -0.5d,
+	y: 2.0d,
+	shape: "gear",
+	description: "The building blocks of engineering",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "bae26741",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}]
+	},
+	{
+		uid: "aa21f44d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}]
+	},
+	{
+		uid: "09b62057",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "994e7770",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 6"
+		}]
+	},
+	{
+		uid: "91bddaae",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 7"
+		}]
+	}]
+}

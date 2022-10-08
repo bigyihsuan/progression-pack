@@ -1,0 +1,20 @@
+{
+	title: "Welcome to [GATED]!",
+	x: 0.0d,
+	y: -8.0d,
+	description: "Gates, Gates Everywhere!",
+	text: [
+		"Welcome to GATED!",
+		"",
+		"This modpack is based around gating mods behind a material craftable using the end-game of the mods you'll play through.",
+		"",
+		"Your first gate is Seared Brick.",
+		"",
+		"Have fun!"
+	],
+	tasks: [{
+		uid: "c2e9519a",
+		type: "checkmark",
+		title: "Welcome to [GATED]!"
+	}]
+}

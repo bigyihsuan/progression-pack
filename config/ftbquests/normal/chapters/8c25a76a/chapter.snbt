@@ -1,0 +1,10 @@
+{
+	title: "Immersive Engineering",
+	icon: "immersiveengineering:metal_decoration0 1 4",
+	description: [
+		"It's Immersive! It's Engineering!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

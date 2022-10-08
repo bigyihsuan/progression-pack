@@ -1,0 +1,97 @@
+{
+	title: "Arc Furnace",
+	x: -1.5d,
+	y: 4.0d,
+	description: "Shockingly Hot",
+	text: [
+		""
+	],
+	dependencies: [
+		"500b003a"
+	],
+	tasks: [{
+		uid: "bce36513",
+		type: "item",
+		items: [{
+			item: "minecraft:cauldron"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "0b12d0cc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "blockSheetmetalSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockSheetmetalSteel"
+				}
+			}
+		}],
+		count: 8L
+	},
+	{
+		uid: "43a22a7d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal_slab 1 8"
+		}],
+		count: 14L
+	},
+	{
+		uid: "d88c4aad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any scaffoldingSteel"
+				}
+			}
+		}],
+		count: 5L
+	},
+	{
+		uid: "b90e28b5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "1bc5d758",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 10L
+	},
+	{
+		uid: "5cc6db21",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 5L
+	},
+	{
+		uid: "63ba71ef",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 2"
+		}],
+		count: 27L
+	}]
+}

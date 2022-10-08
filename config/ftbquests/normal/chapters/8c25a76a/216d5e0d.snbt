@@ -1,0 +1,51 @@
+{
+	title: "Crusher",
+	x: 0.5d,
+	y: 4.0d,
+	description: "Crush, With a Rock, I Must",
+	text: [
+		""
+	],
+	dependencies: [
+		"500b003a"
+	],
+	tasks: [{
+		uid: "63fb123c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 1 1"
+		}],
+		count: 10L
+	},
+	{
+		uid: "2d2c2cf1",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "2923715f",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 10L
+	},
+	{
+		uid: "f3796da6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1"
+		}],
+		count: 8L
+	},
+	{
+		uid: "27fef8ba",
+		type: "item",
+		items: [{
+			item: "minecraft:hopper"
+		}],
+		count: 9L
+	}]
+}

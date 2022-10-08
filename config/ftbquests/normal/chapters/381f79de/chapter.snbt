@@ -1,0 +1,10 @@
+{
+	title: "Beginning",
+	icon: "minecraft:grass",
+	description: [
+		"A Fresh Start"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

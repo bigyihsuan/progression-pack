@@ -1,0 +1,21 @@
+{
+	title: "Stainless Steel",
+	x: -0.5d,
+	y: 5.5d,
+	shape: "gear",
+	description: "Wow, it's shiny!",
+	text: [
+		""
+	],
+	dependencies: [
+		"216d5e0d",
+		"cbd014b7"
+	],
+	tasks: [{
+		uid: "e0eb7342",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ingot_stainless"
+		}]
+	}]
+}
