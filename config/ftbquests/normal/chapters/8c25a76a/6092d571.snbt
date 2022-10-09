@@ -1,0 +1,77 @@
+{
+	title: "Distillation Tower",
+	icon: "immersivepetroleum:metal_multiblock",
+	x: 2.5d,
+	y: 4.5d,
+	description: "Not the wet compact version!",
+	text: [
+		""
+	],
+	dependencies: [
+		"f69f4425"
+	],
+	tasks: [{
+		uid: "03892276",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any scaffoldingSteel"
+				}
+			}
+		}],
+		count: 25L
+	},
+	{
+		uid: "cc725640",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_decoration1_slab 1 1"
+		}],
+		count: 30L
+	},
+	{
+		uid: "c358927b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 17L
+	},
+	{
+		uid: "96442cef",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "90f347fe",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 4L
+	},
+	{
+		uid: "ff5ce7a9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 9"
+		}],
+		count: 60L
+	}]
+}

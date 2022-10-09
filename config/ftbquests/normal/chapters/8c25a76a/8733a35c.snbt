@@ -1,0 +1,63 @@
+{
+	title: "Distiller",
+	icon: "immersivetech:metal_multiblock",
+	x: 4.5d,
+	y: 4.5d,
+	description: "Not the oily tower version!",
+	text: [
+		"The Distiller turns Water into Distilled Water and (at a 1% chance) Salt."
+	],
+	dependencies: [
+		"77286ff1"
+	],
+	tasks: [{
+		uid: "8ce5cf52",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any scaffoldingSteel"
+				}
+			}
+		}],
+		count: 7L
+	},
+	{
+		uid: "b0feb75d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 3L
+	},
+	{
+		uid: "4d7f5114",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "e0cf118a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "c794d3ac",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 9"
+		}],
+		count: 10L
+	}]
+}

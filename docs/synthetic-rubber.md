@@ -21,7 +21,7 @@ res{{TE Resin}}:::fluid
 lrb{{CON Liquid Rubber}}:::fluid
 sr[IC2 Sticky Resin]:::item
 sf[Sulfur]:::item
-DIST([IMT Distiller]):::machine
+DIST([IP Distillation Tower]):::machine
 rb[IC2 Rubber]:::item
 
 BOT1([IE Bottling Machine]):::machine

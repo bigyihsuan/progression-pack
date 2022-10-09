@@ -3,6 +3,7 @@ item.contenttweaker.ingot_stainless.name=Stainless Steel Ingot
 item.contenttweaker.plate_stainless.name=Stainless Steel Plate
 item.contenttweaker.dust_stainless.name=Stainless Steel Dust
 item.contenttweaker.dust_impure_stainless.name=Impure Stainless Steel Mixture
+tile.contenttweaker.block_sheetmetal_stainless.name=Stainless Sheetmetal
 
 item.contenttweaker.cable_aluminum.name=Aluminum Cable
 item.contenttweaker.cable_electrum.name=Electrum Cable

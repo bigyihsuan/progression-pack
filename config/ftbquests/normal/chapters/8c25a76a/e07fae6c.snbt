@@ -1,0 +1,94 @@
+{
+	title: "Pumpjack",
+	icon: "immersivepetroleum:metal_multiblock 1 2",
+	x: 3.5d,
+	y: 4.5d,
+	dependencies: [
+		"f69f4425"
+	],
+	tasks: [{
+		uid: "ca1fa3cb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any scaffoldingSteel"
+				}
+			}
+		}],
+		count: 11L
+	},
+	{
+		uid: "0051c148",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_decoration"
+		}],
+		count: 6L
+	},
+	{
+		uid: "c2db64e1",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 4L
+	},
+	{
+		uid: "e6b3e1dd",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "54acd6d5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "cf29319f",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 2L
+	},
+	{
+		uid: "50e5b3ab",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "blockSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockSteel"
+				}
+			}
+		}],
+		count: 2L
+	},
+	{
+		uid: "bc1496e7",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 8"
+		}],
+		count: 4L
+	}]
+}

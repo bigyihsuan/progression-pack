@@ -1,0 +1,73 @@
+{
+	title: "Refinery",
+	icon: "immersiveengineering:metal_multiblock 1 9",
+	x: -0.5d,
+	y: 4.5d,
+	dependencies: [
+		"500b003a"
+	],
+	tasks: [{
+		uid: "a7749db7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any scaffoldingSteel"
+				}
+			}
+		}],
+		count: 8L
+	},
+	{
+		uid: "349c3774",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 5L
+	},
+	{
+		uid: "415adf37",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "e9f16474",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "601a111c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 2L
+	},
+	{
+		uid: "9c71917b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 9"
+		}],
+		count: 16L
+	}]
+}

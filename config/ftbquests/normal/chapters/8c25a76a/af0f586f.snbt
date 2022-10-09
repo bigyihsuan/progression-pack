@@ -1,8 +1,8 @@
 {
 	title: "Coke Oven",
+	icon: "immersiveengineering:stone_device",
 	x: -0.5d,
 	y: -5.5d,
-	shape: "gear",
 	description: "*snort*",
 	text: [
 		"Coke Bricks in this pack are crafted using Seared Brick."

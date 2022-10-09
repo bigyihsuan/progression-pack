@@ -1,5 +1,6 @@
 {
 	title: "(Improved) Blast Furnace",
+	icon: "immersiveengineering:stone_device 1 2",
 	x: -3.0d,
 	y: -0.5d,
 	dependencies: [

@@ -10,6 +10,7 @@ import mods.appliedenergistics2.Grinder;
 
 var ingot = <contenttweaker:ingot_stainless>;
 var block = <contenttweaker:block_stainless>;
+var sheetmetal = <contenttweaker:block_sheetmetal_stainless>;
 var plate = <contenttweaker:plate_stainless>;
 var dust = <contenttweaker:dust_stainless>;
 var impureDust = <contenttweaker:dust_impure_stainless>;
@@ -17,6 +18,7 @@ var impureDust = <contenttweaker:dust_impure_stainless>;
 // register oredict
 <ore:ingotStainless>.add(ingot);
 <ore:blockStainless>.add(block);
+<ore:blockSheetmetalStainless>.add(sheetmetal);
 <ore:plateStainless>.add(plate);
 <ore:dustStainless>.add(dust);
 <ore:dustDirtyStainless>.add(impureDust);
@@ -32,7 +34,15 @@ recipes.addShaped(
         [ingot, ingot, ingot]
     ]
 );
-
+recipes.addShaped(
+    "stainless_sheetmetal",
+    sheetmetal * 4,
+    [
+        [null, plate, null],
+        [plate, null, plate],
+        [null, plate, null],
+    ]
+);
 // plate recipes
 // ic2 forge hammer (crafting)
 recipes.addShapeless(

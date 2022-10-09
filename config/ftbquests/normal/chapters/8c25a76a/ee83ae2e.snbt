@@ -1,0 +1,33 @@
+{
+	title: "Rubber",
+	x: 5.0d,
+	y: 7.0d,
+	shape: "gear",
+	description: "Squishy, squashy, squəshy",
+	text: [
+		"Rubber is a complicated process involving several different machines.",
+		"",
+		"You will need rubber for insulating cables."
+	],
+	dependencies: [
+		"08b39183",
+		"d319ae09",
+		"6092d571",
+		"e07fae6c",
+		"442ceb39",
+		"3527447e",
+		"1d50f57a",
+		"1eb85d23",
+		"d88db096",
+		"15a95e27",
+		"8733a35c"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "3ea3ca63",
+		type: "item",
+		items: [{
+			item: "ic2:crafting"
+		}]
+	}]
+}

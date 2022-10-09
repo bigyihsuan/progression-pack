@@ -1,0 +1,160 @@
+{
+	title: "Solar Tower",
+	icon: "immersivetech:metal_multiblock 1 1",
+	x: 7.5d,
+	y: 4.5d,
+	description: "Another big boi",
+	text: [
+		"The Solar Tower is a gigantic structure used for 1 thing: heating fluids up.",
+		"",
+		"You will need to heat (and reheat) your Molten Sodium into Superheated Sodium for heating your Oil.",
+		"",
+		"You can also use this to heat water into steam for power generation purposes."
+	],
+	dependencies: [
+		"77286ff1"
+	],
+	tasks: [{
+		uid: "41f8c4d7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any scaffoldingSteel"
+				}
+			}
+		}],
+		count: 16L
+	},
+	{
+		uid: "90ded21d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 34L,
+		consume_items: false
+	},
+	{
+		uid: "a9265e72",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "1e4b6a8f",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 2L
+	},
+	{
+		uid: "c3f5d51f",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 3L
+	},
+	{
+		uid: "87927ef0",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 7"
+		}],
+		count: 2L
+	},
+	{
+		uid: "ac05b5d1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "concrete",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any concrete"
+				}
+			}
+		}],
+		count: 9L
+	},
+	{
+		uid: "1899b6cf",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 4"
+		}],
+		count: 4L
+	},
+	{
+		uid: "f9010ea8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "fenceSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any fenceSteel"
+				}
+			}
+		}],
+		count: 64L
+	},
+	{
+		uid: "919649ca",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "fenceSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any fenceSteel"
+				}
+			}
+		}],
+		count: 16L
+	},
+	{
+		uid: "714f04fc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "blockSheetmetalSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockSheetmetalSteel"
+				}
+			}
+		}],
+		count: 8L
+	}]
+}

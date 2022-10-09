@@ -1,7 +1,9 @@
 {
 	title: "Crusher",
-	x: 0.5d,
-	y: 2.5d,
+	icon: "immersiveengineering:metal_multiblock 1 1",
+	x: -2.0d,
+	y: 4.5d,
+	shape: "gear",
 	description: "Crush, With a Rock, I Must",
 	text: [
 		""

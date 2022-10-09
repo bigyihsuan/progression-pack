@@ -1,0 +1,87 @@
+{
+	title: "Electrolytic Crucible Battery",
+	icon: "immersivetech:metal_multiblock1 1 6",
+	x: 6.5d,
+	y: 4.5d,
+	description: "A real big boi",
+	text: [
+		"This massive thing turns Molten Salt into Molten Sodium and Chlorine."
+	],
+	dependencies: [
+		"77286ff1"
+	],
+	tasks: [{
+		uid: "8a78185d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 8"
+		}],
+		count: 28L
+	},
+	{
+		uid: "b59abeb3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any scaffoldingSteel"
+				}
+			}
+		}],
+		count: 5L
+	},
+	{
+		uid: "207dce65",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "8e0c1a1d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 11L
+	},
+	{
+		uid: "a5b0a55c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 11L
+	},
+	{
+		uid: "a8cecfb1",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 30L
+	},
+	{
+		uid: "69ce1743",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1"
+		}],
+		count: 7L
+	},
+	{
+		uid: "19736885",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal_slab 1 8"
+		}],
+		count: 14L
+	}]
+}

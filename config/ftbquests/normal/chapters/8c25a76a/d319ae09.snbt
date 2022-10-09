@@ -1,0 +1,103 @@
+{
+	title: "Solar Reflector",
+	icon: "immersivetech:metal_multiblock 1 2",
+	x: 8.5d,
+	y: 4.5d,
+	description: "Praise the Sun!",
+	text: [
+		"Solar Relflectors are used in conjunction with Solar Towers to heat solar towers up.",
+		"",
+		"You need a lot of these. A LOT.",
+		"",
+		"230 Solar Reflectors are needed to maximumize the production rate of the Solar Tower.",
+		"",
+		"The center of the multiblock will also need between 12 and 48 blocks (inclusive) from the tower itself.",
+		"The glass should be parallel to the tower."
+	],
+	dependencies: [
+		"77286ff1"
+	],
+	tasks: [{
+		uid: "63401812",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}]
+	},
+	{
+		uid: "7771d38c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "concrete",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any concrete"
+				}
+			}
+		}],
+		count: 4L
+	},
+	{
+		uid: "2165522b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any scaffoldingSteel"
+				}
+			}
+		}],
+		count: 8L
+	},
+	{
+		uid: "6c2e9e7f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "blockSheetmetalSilver",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockSheetmetalSilver"
+				}
+			}
+		}],
+		count: 9L
+	},
+	{
+		uid: "f84a330b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "blockGlass",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockGlass"
+				}
+			}
+		}],
+		count: 3L
+	}]
+}

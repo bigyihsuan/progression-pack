@@ -2,6 +2,7 @@
 	title: "Basic Alloys",
 	x: 0.5d,
 	y: -0.5d,
+	shape: "gear",
 	text: [
 		""
 	],
@@ -11,6 +12,7 @@
 	tasks: [{
 		uid: "42a304e3",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				Parent: {
@@ -29,6 +31,7 @@
 	{
 		uid: "1b4d2abc",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				Parent: {
@@ -47,6 +50,7 @@
 	{
 		uid: "0a647b0e",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				Parent: {

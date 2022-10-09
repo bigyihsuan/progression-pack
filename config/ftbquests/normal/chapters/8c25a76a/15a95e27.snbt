@@ -1,0 +1,67 @@
+{
+	title: "Heat Exchanger",
+	icon: "immersivetech:metal_multiblock1 1 2",
+	x: 9.5d,
+	y: 4.5d,
+	dependencies: [
+		"77286ff1"
+	],
+	tasks: [{
+		uid: "a2f13f05",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any scaffoldingSteel"
+				}
+			}
+		}],
+		count: 9L
+	},
+	{
+		uid: "eb9a7290",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 10L
+	},
+	{
+		uid: "78608346",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 9"
+		}],
+		count: 18L
+	},
+	{
+		uid: "0f8ecb30",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "637b49cb",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "04ce35ae",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 7"
+		}],
+		count: 5L
+	}]
+}

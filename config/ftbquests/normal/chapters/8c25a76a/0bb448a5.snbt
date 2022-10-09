@@ -2,7 +2,6 @@
 	title: "Coke Oven Products",
 	x: -0.5d,
 	y: -4.0d,
-	shape: "gear",
 	text: [
 		"There are 3 things you need from a Coke Oven: Coal Coke, Treated Wood, and Treated Bricks."
 	],
@@ -12,6 +11,7 @@
 	tasks: [{
 		uid: "a31d6c0f",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				Parent: {
@@ -25,11 +25,13 @@
 					Name: "Any fuelCoke"
 				}
 			}
-		}]
+		}],
+		consume_items: false
 	},
 	{
 		uid: "eb4ebac2",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				Parent: {
@@ -48,6 +50,7 @@
 	{
 		uid: "85f73496",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "contenttweaker:block_bricks_treated"
 		}]

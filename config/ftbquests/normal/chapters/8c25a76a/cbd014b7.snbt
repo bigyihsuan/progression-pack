@@ -1,7 +1,9 @@
 {
 	title: "Arc Furnace",
-	x: -1.5d,
-	y: 2.5d,
+	icon: "immersiveengineering:metal_multiblock 1 13",
+	x: -3.0d,
+	y: 4.5d,
+	shape: "gear",
 	description: "Shockingly Hot",
 	text: [
 		""
@@ -13,6 +15,7 @@
 	tasks: [{
 		uid: "bce36513",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "minecraft:cauldron"
 		}],
@@ -21,6 +24,7 @@
 	{
 		uid: "0b12d0cc",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				Parent: {
@@ -40,6 +44,7 @@
 	{
 		uid: "43a22a7d",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "immersiveengineering:sheetmetal_slab 1 8"
 		}],
@@ -48,6 +53,7 @@
 	{
 		uid: "d88c4aad",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				Parent: {
@@ -67,6 +73,7 @@
 	{
 		uid: "b90e28b5",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "immersiveengineering:metal_decoration0 1 3"
 		}]
@@ -74,6 +81,7 @@
 	{
 		uid: "1bc5d758",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "immersiveengineering:metal_decoration0 1 4"
 		}],
@@ -82,6 +90,7 @@
 	{
 		uid: "5cc6db21",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "immersiveengineering:metal_decoration0 1 5"
 		}],
@@ -90,6 +99,7 @@
 	{
 		uid: "63ba71ef",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "immersiveengineering:stone_decoration 1 2"
 		}],

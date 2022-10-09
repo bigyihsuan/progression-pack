@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	description: "Black Gold",
+	text: [
+		"immersive Petroleum is an addon for Immersive Engineering that adds oil and oil processing.",
+		"",
+		"Scan for this oil via the Core Sample Drill, and build Pumpjacks to extract the oil.",
+		"You can distill this oil in Distillation Towers to make fluids for power generation, lubrication, and more.",
+		"You will need raw oil for processing into oil."
+	],
+	dependencies: [
+		"500b003a"
+	],
+	tasks: [{
+		uid: "5b73c65d",
+		type: "checkmark",
+		title: "Immersive Petroleum"
+	}]
+}

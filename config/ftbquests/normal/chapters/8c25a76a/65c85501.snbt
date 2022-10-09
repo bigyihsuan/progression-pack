@@ -1,5 +1,6 @@
 {
 	title: "Steel",
+	icon: "thermalfoundation:material 1 160",
 	x: -1.5d,
 	y: -0.5d,
 	text: [
@@ -11,6 +12,7 @@
 	tasks: [{
 		uid: "752a7406",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			ForgeCaps: {
 				Parent: {

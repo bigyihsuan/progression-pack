@@ -1,0 +1,78 @@
+{
+	title: "Melting Crucible",
+	icon: "immersivetech:metal_multiblock1 1 8",
+	x: 5.5d,
+	y: 4.5d,
+	text: [
+		"The Melting Crucible melts Salt into Molten Salt. You can also make Lava using Cobblestone.",
+		"",
+		"Note you can use any kind of salt, not just the Mekanism salt."
+	],
+	dependencies: [
+		"77286ff1"
+	],
+	tasks: [{
+		uid: "c410bd0e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 8"
+		}],
+		count: 4L
+	},
+	{
+		uid: "e4c481ea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any scaffoldingSteel"
+				}
+			}
+		}],
+		count: 6L
+	},
+	{
+		uid: "48e05420",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}]
+	},
+	{
+		uid: "eef8dc43",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "65f22439",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "0db51dfc",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 1"
+		}]
+	},
+	{
+		uid: "744b9f11",
+		type: "item",
+		items: [{
+			item: "immersivetech:metal_barrel 1 2"
+		}],
+		count: 4L
+	}]
+}

@@ -1,0 +1,73 @@
+{
+	title: "Mixer",
+	icon: "immersiveengineering:metal_multiblock 1 15",
+	x: 0.5d,
+	y: 4.5d,
+	dependencies: [
+		"500b003a"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "d2e6da3d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any scaffoldingSteel"
+				}
+			}
+		}],
+		count: 5L
+	},
+	{
+		uid: "11d741c5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 3L
+	},
+	{
+		uid: "e63ff494",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "75e8f2e3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 4L
+	},
+	{
+		uid: "ce2206ac",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 4L
+	},
+	{
+		uid: "54e4af21",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:metal_decoration1"
+		}]
+	}]
+}
