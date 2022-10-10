@@ -1,8 +1,8 @@
 {
 	title: "Heat Exchanger",
 	icon: "immersivetech:metal_multiblock1 1 2",
-	x: 9.5d,
-	y: 4.5d,
+	x: 5.0d,
+	y: 6.0d,
 	dependencies: [
 		"77286ff1"
 	],

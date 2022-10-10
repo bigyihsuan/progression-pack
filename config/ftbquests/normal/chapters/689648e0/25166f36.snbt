@@ -1,0 +1,15 @@
+{
+	title: "Building Gadgets",
+	x: -2.5d,
+	y: 0.0d,
+	text: [
+		"Building Gadgets is a mod that has several items that make building easier."
+	],
+	dependencies: [
+		"356e0aaf"
+	],
+	tasks: [{
+		uid: "c2e63aaa",
+		type: "checkmark"
+	}]
+}

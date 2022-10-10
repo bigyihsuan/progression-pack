@@ -1,8 +1,8 @@
 {
 	title: "Solar Reflector",
 	icon: "immersivetech:metal_multiblock 1 2",
-	x: 8.5d,
-	y: 4.5d,
+	x: 4.0d,
+	y: 6.0d,
 	description: "Praise the Sun!",
 	text: [
 		"Solar Relflectors are used in conjunction with Solar Towers to heat solar towers up.",

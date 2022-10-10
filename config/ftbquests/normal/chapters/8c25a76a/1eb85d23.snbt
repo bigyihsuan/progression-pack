@@ -1,8 +1,8 @@
 {
 	title: "Bottling Machine",
 	icon: "immersiveengineering:metal_multiblock 1 6",
-	x: 1.5d,
-	y: 4.5d,
+	x: -3.0d,
+	y: 6.0d,
 	dependencies: [
 		"500b003a"
 	],

@@ -1,8 +1,8 @@
 {
 	title: "Solar Tower",
 	icon: "immersivetech:metal_multiblock 1 1",
-	x: 7.5d,
-	y: 4.5d,
+	x: 3.0d,
+	y: 6.0d,
 	description: "Another big boi",
 	text: [
 		"The Solar Tower is a gigantic structure used for 1 thing: heating fluids up.",

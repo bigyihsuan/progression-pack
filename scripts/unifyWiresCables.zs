@@ -49,25 +49,22 @@ MetalPress.addRecipe(<immersiveengineering:material:23> * 4, <item:contenttweake
 // add new wires
 // gold
 MetalPress.addRecipe(<item:contenttweaker:wire_gold> * 4, goldCable, <immersiveengineering:mold:4>, 2400, 1);
-recipes.addShaped("industrialwires_goldCoil", goldCoil.withTag({wireLength: 4}),
+recipes.addShaped(PACK + "industrialwires_goldCoil", goldCoil.withTag({wireLength: 4}),
     wire(<item:contenttweaker:wire_gold>, <ore:stickWood>));
-recipes.addShaped("industrialwires_goldCoil_treated", goldCoil.withTag({wireLength: 4}),
+recipes.addShaped(PACK + "industrialwires_goldCoil_treated", goldCoil.withTag({wireLength: 4}),
     wire(<item:contenttweaker:wire_gold>, <ore:stickTreatedWood>));
 // iron
 MetalPress.addRecipe(<item:contenttweaker:wire_iron> * 4, ironCable, <immersiveengineering:mold:4>, 2400, 1);
-recipes.addShaped("industrialwires_ironCoil", ironCoil.withTag({wireLength: 4}),
+recipes.addShaped(PACK + "industrialwires_ironCoil", ironCoil.withTag({wireLength: 4}),
     wire(<item:contenttweaker:wire_iron>, <ore:stickWood>));
-recipes.addShaped("industrialwires_ironCoil_treated", ironCoil.withTag({wireLength: 4}),
+recipes.addShaped(PACK + "industrialwires_ironCoil_treated", ironCoil.withTag({wireLength: 4}),
     wire(<item:contenttweaker:wire_iron>, <ore:stickTreatedWood>));
 // tin
 MetalPress.addRecipe(<item:contenttweaker:wire_tin> * 4, tinCable, <immersiveengineering:mold:4>, 2400, 1);
-recipes.addShaped("industrialwires_tinCoil", tinCoil.withTag({wireLength: 4}),
+recipes.addShaped(PACK + "industrialwires_tinCoil", tinCoil.withTag({wireLength: 4}),
     wire(<item:contenttweaker:wire_tin>, <ore:stickWood>));
-recipes.addShaped("industrialwires_tinCoil_treated", tinCoil.withTag({wireLength: 4}),
+recipes.addShaped(PACK + "industrialwires_tinCoil_treated", tinCoil.withTag({wireLength: 4}),
     wire(<item:contenttweaker:wire_tin>, <ore:stickTreatedWood>));
 
 // existing cables -> existing wires
 // MetalPress.addRecipe(<item:contenttweaker:wire_tin> * 2, <ore:ingotTin>, <immersiveengineering:mold:4>, 2400, 1);
-
-// TODO: check metal press recipes for wires
-// TODO: add recipes from ic2 cable -> ie wire

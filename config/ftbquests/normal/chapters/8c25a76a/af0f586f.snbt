@@ -1,14 +1,14 @@
 {
 	title: "Coke Oven",
 	icon: "immersiveengineering:stone_device",
-	x: -0.5d,
-	y: -5.5d,
+	x: -3.5d,
+	y: -1.0d,
 	description: "*snort*",
 	text: [
 		"Coke Bricks in this pack are crafted using Seared Brick."
 	],
 	dependencies: [
-		"d3c66896"
+		"30c46b27"
 	],
 	tasks: [{
 		uid: "bd02b49d",

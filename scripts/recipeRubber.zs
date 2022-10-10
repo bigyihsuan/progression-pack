@@ -99,12 +99,12 @@ recipes.remove(mv_ins);
 var fabric = <ore:fabricHemp>;
 var lvcoil = <immersiveengineering:wirecoil>;
 var mvcoil = <immersiveengineering:wirecoil:1>;
-recipes.addShaped("expensive_insulated_lv_wirecoil", lv_ins, [
+recipes.addShaped(PACK + "expensive_insulated_lv_wirecoil", lv_ins, [
     [fabric, fabric, fabric],
     [fabric, lvcoil, fabric],
     [fabric, fabric, fabric],
 ]);
-recipes.addShaped("expensive_insulated_mv_wirecoil", mv_ins, [
+recipes.addShaped(PACK + "expensive_insulated_mv_wirecoil", mv_ins, [
     [fabric, fabric, fabric],
     [fabric, mvcoil, fabric],
     [fabric, fabric, fabric],

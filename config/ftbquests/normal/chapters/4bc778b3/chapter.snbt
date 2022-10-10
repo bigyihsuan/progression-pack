@@ -1,0 +1,7 @@
+{
+	title: "06: Mekanism",
+	icon: "mekanism:configurator",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

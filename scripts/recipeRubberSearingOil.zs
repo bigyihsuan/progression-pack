@@ -3,10 +3,12 @@ import mods.immersivetechnology.HeatExchanger;
 // TODO: Unify IT Molten Sodium + MEK Liquid Sodium
 // all recipes with MEK <liquid:liqudsodium> have IT <liquid:moltensodium> added
 //? hide recipes with MEK Liquid Sodium
+//? add recipes with IT Molten Sodium
 
 // TODO: Unify IT Chlorine + MEK Chlorine
 // all recipes with MEK Chlorine have IT Chlorine added
 //? hide recipes with MEK Chlorine
+//? add recipes with IT Chlorine
 
 // change bc heat exchanger to be not worth it after completing ie chapter
 // use stainless steel
@@ -25,13 +27,14 @@ var oilSearing = <liquid:oil_heat_2>;
 // public static HeatExchangerRecipe addRecipe(
 //    FluidStack fluidOutput0, FluidStack fluidOutput1,
 //    FluidStack fluidInput0, FluidStack fluidInput1,
-//    int energy, int time) // energy = rf per recipe
+//    int energy, int time)
+// energy = rf per recipe
 HeatExchanger.addRecipe(
     sodium * 80, oilHot * 100,
     sodiumHeated * 80, oilCold * 100,
-    1024*5, 5);
+    512*5, 5);
 
 HeatExchanger.addRecipe(
     sodium * 80, oilSearing * 100,
     sodiumHeated * 80, oilHot * 100,
-    1024*5, 5);
+    512*5, 5);

@@ -1,9 +1,8 @@
 {
 	title: "Alloy Kiln",
 	icon: "immersiveengineering:stone_device 1 7",
-	x: 0.5d,
-	y: -2.5d,
-	shape: "gear",
+	x: -0.5d,
+	y: 1.5d,
 	text: [
 		""
 	],

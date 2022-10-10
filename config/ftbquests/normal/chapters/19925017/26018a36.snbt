@@ -1,10 +1,10 @@
 {
-	title: "Welcome to [GATED]!",
+	title: "Welcome to Gated!",
 	x: 0.0d,
-	y: -8.0d,
-	description: "Gates, Gates Everywhere!",
+	y: -4.5d,
+	description: "Sorry, we'll have to stop you here.",
 	text: [
-		"Welcome to GATED!",
+		"Welcome to Gated!",
 		"",
 		"This modpack is based around gating mods behind a material craftable using the end-game of the mods you'll play through.",
 		"",

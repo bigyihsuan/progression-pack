@@ -3010,358 +3010,34 @@ projectred-core:resource_item:600, Null-Logic Routing Chip
 projectred-core:drawplate, Draw Plate
 projectred-core:screwdriver, Screwdriver
 projectred-core:multimeter, Multimeter
-plustic:alumitenugget, Alumite Nugget
-plustic:alumiteingot, Alumite Ingot
-plustic:alumiteblock, Alumite Block
-plustic:plustic.molten_alumite, Molten Alumite
-plustic:invarnugget, Invar Nugget
-plustic:invaringot, Invar Ingot
-plustic:invarblock, Invar Block
-plustic:plustic.molten_osmium, Molten Osmium
-plustic:plustic.molten_refinedobsidian, Molten Refined Obsidian
-plustic:plustic.molten_refinedglowstone, Refined Glowstone
-plustic:osgloglasnugget, Osgloglas Nugget
-plustic:osgloglasingot, Osgloglas Ingot
-plustic:osgloglasblock, Osgloglas Block
-plustic:plustic.molten_osgloglas, Molten Osgloglas
-plustic:osmiridiumnugget, Osmiridium Nugget
-plustic:osmiridiumingot, Osmiridium Ingot
-plustic:osmiridiumblock, Osmiridium Block
-plustic:plustic.molten_osmiridium, Molten Osmiridium
-projectred-integration:gate:0, OR Gate
-projectred-integration:gate:1, NOR Gate
-projectred-integration:gate:2, NOT Gate
-projectred-integration:gate:3, AND Gate
-projectred-integration:gate:4, NAND Gate
-projectred-integration:gate:5, XOR Gate
-projectred-integration:gate:6, XNOR Gate
-projectred-integration:gate:7, Buffer Gate
-projectred-integration:gate:8, Multiplexer
-projectred-integration:gate:9, Pulse Former
-projectred-integration:gate:10, Repeater
-projectred-integration:gate:11, Randomizer
-projectred-integration:gate:12, RS Latch
-projectred-integration:gate:13, Toggle Latch
-projectred-integration:gate:14, Transparent Latch
-projectred-integration:gate:15, Light Sensor
-projectred-integration:gate:16, Rain Sensor
-projectred-integration:gate:17, Timer
-projectred-integration:gate:18, Sequencer
-projectred-integration:gate:19, Counter
-projectred-integration:gate:20, State Cell
-projectred-integration:gate:21, Synchronizer
-projectred-integration:gate:22, Bus Transceiver
-projectred-integration:gate:23, Null Cell
-projectred-integration:gate:24, Invert Cell
-projectred-integration:gate:25, Buffer Cell
-projectred-integration:gate:26, Comparator
-projectred-integration:gate:27, AND Cell
-projectred-integration:gate:28, Bus Randomizer
-projectred-integration:gate:29, Bus Converter
-projectred-integration:gate:30, Bus Input Panel
-projectred-integration:gate:31, Data Cell
-projectred-integration:gate:32, Segment Display Gate
-projectred-integration:gate:33, Dec Randomizer
-projectred-integration:gate:34, IC Gate
-projectred-transmission:wire:0, Red Alloy Wire
-projectred-transmission:wire:1, White Insulated Wire
-projectred-transmission:wire:2, Orange Insulated Wire
-projectred-transmission:wire:3, Magenta Insulated Wire
-projectred-transmission:wire:4, Light Blue Insulated Wire
-projectred-transmission:wire:5, Yellow Insulated Wire
-projectred-transmission:wire:6, Lime Insulated Wire
-projectred-transmission:wire:7, Pink Insulated Wire
-projectred-transmission:wire:8, Grey Insulated Wire
-projectred-transmission:wire:9, Light Grey Insulated Wire
-projectred-transmission:wire:10, Cyan Insulated Wire
-projectred-transmission:wire:11, Purple Insulated Wire
-projectred-transmission:wire:12, Blue Insulated Wire
-projectred-transmission:wire:13, Brown Insulated Wire
-projectred-transmission:wire:14, Green Insulated Wire
-projectred-transmission:wire:15, Red Insulated Wire
-projectred-transmission:wire:16, Black Insulated Wire
-projectred-transmission:wire:17, Bundled Cable
-projectred-transmission:wire:18, White Bundled Cable
-projectred-transmission:wire:19, Orange Bundled Cable
-projectred-transmission:wire:20, Magenta Bundled Cable
-projectred-transmission:wire:21, Light Blue Bundled Cable
-projectred-transmission:wire:22, Yellow Bundled Cable
-projectred-transmission:wire:23, Lime Bundled Cable
-projectred-transmission:wire:24, Pink Bundled Cable
-projectred-transmission:wire:25, Grey Bundled Cable
-projectred-transmission:wire:26, Light Grey Bundled Cable
-projectred-transmission:wire:27, Cyan Bundled Cable
-projectred-transmission:wire:28, Purple Bundled Cable
-projectred-transmission:wire:29, Blue Bundled Cable
-projectred-transmission:wire:30, Brown Bundled Cable
-projectred-transmission:wire:31, Green Bundled Cable
-projectred-transmission:wire:32, Red Bundled Cable
-projectred-transmission:wire:33, Black Bundled Cable
-projectred-transmission:wire:34, Low Load Power Line
-projectred-transmission:framed_wire:0, Framed Red Alloy Wire
-projectred-transmission:framed_wire:1, Framed White Insulated Wire
-projectred-transmission:framed_wire:2, Framed Orange Insulated Wire
-projectred-transmission:framed_wire:3, Framed Magenta Insulated Wire
-projectred-transmission:framed_wire:4, Framed Light Blue Insulated Wire
-projectred-transmission:framed_wire:5, Framed Yellow Insulated Wire
-projectred-transmission:framed_wire:6, Framed Lime Insulated Wire
-projectred-transmission:framed_wire:7, Framed Pink Insulated Wire
-projectred-transmission:framed_wire:8, Framed Grey Insulated Wire
-projectred-transmission:framed_wire:9, Framed Light Grey Insulated Wire
-projectred-transmission:framed_wire:10, Framed Cyan Insulated Wire
-projectred-transmission:framed_wire:11, Framed Purple Insulated Wire
-projectred-transmission:framed_wire:12, Framed Blue Insulated Wire
-projectred-transmission:framed_wire:13, Framed Brown Insulated Wire
-projectred-transmission:framed_wire:14, Framed Green Insulated Wire
-projectred-transmission:framed_wire:15, Framed Red Insulated Wire
-projectred-transmission:framed_wire:16, Framed Black Insulated Wire
-projectred-transmission:framed_wire:17, Framed Bundled Cable
-projectred-transmission:framed_wire:34, Framed Low Load Power Line
-projectred-fabrication:ic_machine:0, IC Workbench
-projectred-fabrication:ic_machine:1, IC Printer
-projectred-fabrication:ic_blueprint, IC Blueprint
-projectred-fabrication:ic_chip:0, IC Chip
-projectred-fabrication:ic_chip:1, Creative Mode IC Chip
-projectred-illumination:lamp:0, White Lamp
-projectred-illumination:lamp:1, Orange Lamp
-projectred-illumination:lamp:2, Magenta Lamp
-projectred-illumination:lamp:3, Light Blue Lamp
-projectred-illumination:lamp:4, Yellow Lamp
-projectred-illumination:lamp:5, Lime Lamp
-projectred-illumination:lamp:6, Pink Lamp
-projectred-illumination:lamp:7, Grey Lamp
-projectred-illumination:lamp:8, Light Grey Lamp
-projectred-illumination:lamp:9, Cyan Lamp
-projectred-illumination:lamp:10, Purple Lamp
-projectred-illumination:lamp:11, Blue Lamp
-projectred-illumination:lamp:12, Brown Lamp
-projectred-illumination:lamp:13, Green Lamp
-projectred-illumination:lamp:14, Red Lamp
-projectred-illumination:lamp:15, Black Lamp
-projectred-illumination:lamp:16, Inverted White Lamp
-projectred-illumination:lamp:17, Inverted Orange Lamp
-projectred-illumination:lamp:18, Inverted Magenta Lamp
-projectred-illumination:lamp:19, Inverted Light Blue Lamp
-projectred-illumination:lamp:20, Inverted Yellow Lamp
-projectred-illumination:lamp:21, Inverted Lime Lamp
-projectred-illumination:lamp:22, Inverted Pink Lamp
-projectred-illumination:lamp:23, Inverted Grey Lamp
-projectred-illumination:lamp:24, Inverted Light Grey Lamp
-projectred-illumination:lamp:25, Inverted Cyan Lamp
-projectred-illumination:lamp:26, Inverted Purple Lamp
-projectred-illumination:lamp:27, Inverted Blue Lamp
-projectred-illumination:lamp:28, Inverted Brown Lamp
-projectred-illumination:lamp:29, Inverted Green Lamp
-projectred-illumination:lamp:30, Inverted Red Lamp
-projectred-illumination:lamp:31, Inverted Black Lamp
-projectred-illumination:light_button:0, White Illumar Button
-projectred-illumination:light_button:1, Orange Illumar Button
-projectred-illumination:light_button:2, Magenta Illumar Button
-projectred-illumination:light_button:3, Light Blue Illumar Button
-projectred-illumination:light_button:4, Yellow Illumar Button
-projectred-illumination:light_button:5, Lime Illumar Button
-projectred-illumination:light_button:6, Pink Illumar Button
-projectred-illumination:light_button:7, Grey Illumar Button
-projectred-illumination:light_button:8, Light Grey Illumar Button
-projectred-illumination:light_button:9, Cyan Illumar Button
-projectred-illumination:light_button:10, Purple Illumar Button
-projectred-illumination:light_button:11, Blue Illumar Button
-projectred-illumination:light_button:12, Brown Illumar Button
-projectred-illumination:light_button:13, Green Illumar Button
-projectred-illumination:light_button:14, Red Illumar Button
-projectred-illumination:light_button:15, Black Illumar Button
-projectred-illumination:feedback_light_button:0, White Illumar Feedback Button
-projectred-illumination:feedback_light_button:1, Orange Illumar Feedback Button
-projectred-illumination:feedback_light_button:2, Magenta Illumar Feedback Button
-projectred-illumination:feedback_light_button:3, Light Blue Illumar Feedback Button
-projectred-illumination:feedback_light_button:4, Yellow Illumar Feedback Button
-projectred-illumination:feedback_light_button:5, Lime Illumar Feedback Button
-projectred-illumination:feedback_light_button:6, Pink Illumar Feedback Button
-projectred-illumination:feedback_light_button:7, Grey Illumar Feedback Button
-projectred-illumination:feedback_light_button:8, Light Grey Illumar Feedback Button
-projectred-illumination:feedback_light_button:9, Cyan Illumar Feedback Button
-projectred-illumination:feedback_light_button:10, Purple Illumar Feedback Button
-projectred-illumination:feedback_light_button:11, Blue Illumar Feedback Button
-projectred-illumination:feedback_light_button:12, Brown Illumar Feedback Button
-projectred-illumination:feedback_light_button:13, Green Illumar Feedback Button
-projectred-illumination:feedback_light_button:14, Red Illumar Feedback Button
-projectred-illumination:feedback_light_button:15, Black Illumar Feedback Button
-projectred-illumination:lantern:0, White Lantern
-projectred-illumination:lantern:1, Orange Lantern
-projectred-illumination:lantern:2, Magenta Lantern
-projectred-illumination:lantern:3, Light Blue Lantern
-projectred-illumination:lantern:4, Yellow Lantern
-projectred-illumination:lantern:5, Lime Lantern
-projectred-illumination:lantern:6, Pink Lantern
-projectred-illumination:lantern:7, Grey Lantern
-projectred-illumination:lantern:8, Light Grey Lantern
-projectred-illumination:lantern:9, Cyan Lantern
-projectred-illumination:lantern:10, Purple Lantern
-projectred-illumination:lantern:11, Blue Lantern
-projectred-illumination:lantern:12, Brown Lantern
-projectred-illumination:lantern:13, Green Lantern
-projectred-illumination:lantern:14, Red Lantern
-projectred-illumination:lantern:15, Black Lantern
-projectred-illumination:inverted_lantern:0, Inverted White Lantern
-projectred-illumination:inverted_lantern:1, Inverted Orange Lantern
-projectred-illumination:inverted_lantern:2, Inverted Magenta Lantern
-projectred-illumination:inverted_lantern:3, Inverted Light Blue Lantern
-projectred-illumination:inverted_lantern:4, Inverted Yellow Lantern
-projectred-illumination:inverted_lantern:5, Inverted Lime Lantern
-projectred-illumination:inverted_lantern:6, Inverted Pink Lantern
-projectred-illumination:inverted_lantern:7, Inverted Grey Lantern
-projectred-illumination:inverted_lantern:8, Inverted Light Grey Lantern
-projectred-illumination:inverted_lantern:9, Inverted Cyan Lantern
-projectred-illumination:inverted_lantern:10, Inverted Purple Lantern
-projectred-illumination:inverted_lantern:11, Inverted Blue Lantern
-projectred-illumination:inverted_lantern:12, Inverted Brown Lantern
-projectred-illumination:inverted_lantern:13, Inverted Green Lantern
-projectred-illumination:inverted_lantern:14, Inverted Red Lantern
-projectred-illumination:inverted_lantern:15, Inverted Black Lantern
-projectred-illumination:fixture_light:0, White Fixture
-projectred-illumination:fixture_light:1, Orange Fixture
-projectred-illumination:fixture_light:2, Magenta Fixture
-projectred-illumination:fixture_light:3, Light Blue Fixture
-projectred-illumination:fixture_light:4, Yellow Fixture
-projectred-illumination:fixture_light:5, Lime Fixture
-projectred-illumination:fixture_light:6, Pink Fixture
-projectred-illumination:fixture_light:7, Grey Fixture
-projectred-illumination:fixture_light:8, Light Grey Fixture
-projectred-illumination:fixture_light:9, Cyan Fixture
-projectred-illumination:fixture_light:10, Purple Fixture
-projectred-illumination:fixture_light:11, Blue Fixture
-projectred-illumination:fixture_light:12, Brown Fixture
-projectred-illumination:fixture_light:13, Green Fixture
-projectred-illumination:fixture_light:14, Red Fixture
-projectred-illumination:fixture_light:15, Black Fixture
-projectred-illumination:inverted_fixture_light:0, Inverted White Fixture
-projectred-illumination:inverted_fixture_light:1, Inverted Orange Fixture
-projectred-illumination:inverted_fixture_light:2, Inverted Magenta Fixture
-projectred-illumination:inverted_fixture_light:3, Inverted Light Blue Fixture
-projectred-illumination:inverted_fixture_light:4, Inverted Yellow Fixture
-projectred-illumination:inverted_fixture_light:5, Inverted Lime Fixture
-projectred-illumination:inverted_fixture_light:6, Inverted Pink Fixture
-projectred-illumination:inverted_fixture_light:7, Inverted Grey Fixture
-projectred-illumination:inverted_fixture_light:8, Inverted Light Grey Fixture
-projectred-illumination:inverted_fixture_light:9, Inverted Cyan Fixture
-projectred-illumination:inverted_fixture_light:10, Inverted Purple Fixture
-projectred-illumination:inverted_fixture_light:11, Inverted Blue Fixture
-projectred-illumination:inverted_fixture_light:12, Inverted Brown Fixture
-projectred-illumination:inverted_fixture_light:13, Inverted Green Fixture
-projectred-illumination:inverted_fixture_light:14, Inverted Red Fixture
-projectred-illumination:inverted_fixture_light:15, Inverted Black Fixture
-projectred-illumination:fallout_lamp:0, White Fallout Light
-projectred-illumination:fallout_lamp:1, Orange Fallout Light
-projectred-illumination:fallout_lamp:2, Magenta Fallout Light
-projectred-illumination:fallout_lamp:3, Light Blue Fallout Light
-projectred-illumination:fallout_lamp:4, Yellow Fallout Light
-projectred-illumination:fallout_lamp:5, Lime Fallout Light
-projectred-illumination:fallout_lamp:6, Pink Fallout Light
-projectred-illumination:fallout_lamp:7, Grey Fallout Light
-projectred-illumination:fallout_lamp:8, Light Grey Fallout Light
-projectred-illumination:fallout_lamp:9, Cyan Fallout Light
-projectred-illumination:fallout_lamp:10, Purple Fallout Light
-projectred-illumination:fallout_lamp:11, Blue Fallout Light
-projectred-illumination:fallout_lamp:12, Brown Fallout Light
-projectred-illumination:fallout_lamp:13, Green Fallout Light
-projectred-illumination:fallout_lamp:14, Red Fallout Light
-projectred-illumination:fallout_lamp:15, Black Fallout Light
-projectred-illumination:inverted_fallout_lamp:0, Inverted White Fallout Light
-projectred-illumination:inverted_fallout_lamp:1, Inverted Orange Fallout Light
-projectred-illumination:inverted_fallout_lamp:2, Inverted Magenta Fallout Light
-projectred-illumination:inverted_fallout_lamp:3, Inverted Light Blue Fallout Light
-projectred-illumination:inverted_fallout_lamp:4, Inverted Yellow Fallout Light
-projectred-illumination:inverted_fallout_lamp:5, Inverted Lime Fallout Light
-projectred-illumination:inverted_fallout_lamp:6, Inverted Pink Fallout Light
-projectred-illumination:inverted_fallout_lamp:7, Inverted Grey Fallout Light
-projectred-illumination:inverted_fallout_lamp:8, Inverted Light Grey Fallout Light
-projectred-illumination:inverted_fallout_lamp:9, Inverted Cyan Fallout Light
-projectred-illumination:inverted_fallout_lamp:10, Inverted Purple Fallout Light
-projectred-illumination:inverted_fallout_lamp:11, Inverted Blue Fallout Light
-projectred-illumination:inverted_fallout_lamp:12, Inverted Brown Fallout Light
-projectred-illumination:inverted_fallout_lamp:13, Inverted Green Fallout Light
-projectred-illumination:inverted_fallout_lamp:14, Inverted Red Fallout Light
-projectred-illumination:inverted_fallout_lamp:15, Inverted Black Fallout Light
-projectred-illumination:cage_lamp:0, White Cage Lamp
-projectred-illumination:cage_lamp:1, Orange Cage Lamp
-projectred-illumination:cage_lamp:2, Magenta Cage Lamp
-projectred-illumination:cage_lamp:3, Light Blue Cage Lamp
-projectred-illumination:cage_lamp:4, Yellow Cage Lamp
-projectred-illumination:cage_lamp:5, Lime Cage Lamp
-projectred-illumination:cage_lamp:6, Pink Cage Lamp
-projectred-illumination:cage_lamp:7, Grey Cage Lamp
-projectred-illumination:cage_lamp:8, Light Grey Cage Lamp
-projectred-illumination:cage_lamp:9, Cyan Cage Lamp
-projectred-illumination:cage_lamp:10, Purple Cage Lamp
-projectred-illumination:cage_lamp:11, Blue Cage Lamp
-projectred-illumination:cage_lamp:12, Brown Cage Lamp
-projectred-illumination:cage_lamp:13, Green Cage Lamp
-projectred-illumination:cage_lamp:14, Red Cage Lamp
-projectred-illumination:cage_lamp:15, Black Cage Lamp
-projectred-illumination:inverted_cage_lamp:0, Inverted White Cage Lamp
-projectred-illumination:inverted_cage_lamp:1, Inverted Orange Cage Lamp
-projectred-illumination:inverted_cage_lamp:2, Inverted Magenta Cage Lamp
-projectred-illumination:inverted_cage_lamp:3, Inverted Light Blue Cage Lamp
-projectred-illumination:inverted_cage_lamp:4, Inverted Yellow Cage Lamp
-projectred-illumination:inverted_cage_lamp:5, Inverted Lime Cage Lamp
-projectred-illumination:inverted_cage_lamp:6, Inverted Pink Cage Lamp
-projectred-illumination:inverted_cage_lamp:7, Inverted Grey Cage Lamp
-projectred-illumination:inverted_cage_lamp:8, Inverted Light Grey Cage Lamp
-projectred-illumination:inverted_cage_lamp:9, Inverted Cyan Cage Lamp
-projectred-illumination:inverted_cage_lamp:10, Inverted Purple Cage Lamp
-projectred-illumination:inverted_cage_lamp:11, Inverted Blue Cage Lamp
-projectred-illumination:inverted_cage_lamp:12, Inverted Brown Cage Lamp
-projectred-illumination:inverted_cage_lamp:13, Inverted Green Cage Lamp
-projectred-illumination:inverted_cage_lamp:14, Inverted Red Cage Lamp
-projectred-illumination:inverted_cage_lamp:15, Inverted Black Cage Lamp
-projectred-expansion:solar_panel, Solar Panel
-projectred-expansion:empty_battery, Battery
-projectred-expansion:charged_battery, Battery
-projectred-expansion:jetpack, Jetpack
-projectred-expansion:electric_screwdriver, Electric Screwdriver
-projectred-expansion:infused_ender_pearl, Infused Ender Pearl
-projectred-expansion:plan, Recipe Plan
-projectred-expansion:machine1:0, Inductive Furnace
-projectred-expansion:machine1:1, Electrotine Generator
-projectred-expansion:machine2:0, Block Breaker
-projectred-expansion:machine2:1, Item Importer
-projectred-expansion:machine2:2, Block Placer
-projectred-expansion:machine2:3, Filtered Importer
-projectred-expansion:machine2:4, Fire Starter
-projectred-expansion:machine2:5, Battery Box
-projectred-expansion:machine2:6, Charging Bench
-projectred-expansion:machine2:7, Teleposer
-projectred-expansion:machine2:8, Frame Motor
-projectred-expansion:machine2:9, Frame Linear Actuator
-projectred-expansion:machine2:10, Project Bench
-projectred-expansion:machine2:11, Auto Crafting Bench
-projectred-expansion:machine2:12, Diamond Block Breaker
-projectred-relocation:frame, Frame
-projectred-transportation:pipe:0, Item Transport pipe
-projectred-transportation:pipe:1, Routed Junction pipe
-projectred-transportation:pipe:2, Routed Interface pipe
-projectred-transportation:pipe:3, Routed Request pipe
-projectred-transportation:pipe:4, Routed Firewall pipe
-projectred-transportation:pipe:32, Network Valve pipe
-projectred-transportation:pipe:33, Network Latency pipe
-projectred-transportation:pipe:64, Pressure tube
-projectred-transportation:pipe:65, Pressure Resistance tube
-projectred-transportation:routing_chip:0, Item Responder chip
-projectred-transportation:routing_chip:1, Dynamic Item Responder chip
-projectred-transportation:routing_chip:2, Item Overflow Responder chip
-projectred-transportation:routing_chip:3, Item Terminator chip
-projectred-transportation:routing_chip:4, Item Extractor chip
-projectred-transportation:routing_chip:5, Item Broadcaster chip
-projectred-transportation:routing_chip:6, Item Stock Keeper chip
-projectred-transportation:routing_chip:7, Item Crafting chip
-projectred-transportation:routing_chip:8, Item Crafting Extension chip
-projectred-transportation:router_utility, Router Utility
-thermalcultivation:watering_can:0, Watering Can (Basic)
-thermalcultivation:watering_can:1, Watering Can (Hardened)
-thermalcultivation:watering_can:2, Watering Can (Reinforced)
-thermalcultivation:watering_can:3, Watering Can (Signalum)
-thermalcultivation:watering_can:4, Watering Can (Resonant)
-thermalcultivation:watering_can:32000, Watering Can (Creative)
+redstonearsenal:storage:0, Fluxed Electrum Block
+redstonearsenal:storage:1, Flux Crystal Block
+redstonearsenal:material:0, Fluxed Electrum Blend
+redstonearsenal:material:32, Fluxed Electrum Ingot
+redstonearsenal:material:64, Fluxed Electrum Nugget
+redstonearsenal:material:96, Fluxed Electrum Gear
+redstonearsenal:material:128, Fluxed Electrum Plate
+redstonearsenal:material:160, Flux Crystal
+redstonearsenal:material:192, Obsidian Rod
+redstonearsenal:material:193, Flux-Infused Obsidian Rod
+redstonearsenal:material:224, Fluxed Armor Plating
+redstonearsenal:util.quiver_flux, Flux-Infused Quiver
+redstonearsenal:armor.helmet_flux, Flux-Infused Helm
+redstonearsenal:armor.plate_flux, Flux-Infused Chestplate
+redstonearsenal:armor.legs_flux, Flux-Infused Leggings
+redstonearsenal:armor.boots_flux, Flux-Infused Boots
+redstonearsenal:tool.wrench_flux, Flux-Infused OmniWrench
+redstonearsenal:tool.battlewrench_flux, Flux-Infused BattleWrench
+redstonearsenal:tool.sword_flux, Flux-Infused Sword
+redstonearsenal:tool.shovel_flux, Flux-Infused Shovel
+redstonearsenal:tool.pickaxe_flux, Flux-Infused Pickaxe
+redstonearsenal:tool.axe_flux, Flux-Infused Axe
+redstonearsenal:tool.bow_flux, Flux-Infused Bow
+redstonearsenal:tool.fishing_rod_flux, Flux-Infused Fishing Rod
+redstonearsenal:tool.sickle_flux, Flux-Infused Sickle
+redstonearsenal:tool.hammer_flux, Flux-Infused Hammer
+redstonearsenal:tool.excavator_flux, Flux-Infused Excavator
+redstonearsenal:tool.shield_flux, Flux-Infused Shield
 thermaldynamics:duct_0:0, Leadstone Fluxduct
 thermaldynamics:duct_0:1, Hardened Fluxduct
 thermaldynamics:duct_0:2, Redstone Energy Fluxduct
@@ -3866,17 +3542,480 @@ thermaldynamics:cover:0, Fusion Connector Cover
 thermaldynamics:cover:0, Glowing Mushroom Cover
 thermaldynamics:cover:0, Wasteland Earth Cover
 thermaldynamics:cover:0, Tritium Lamp Cover
-thermaldynamics:cover:0, Alumite Block Cover
-thermaldynamics:cover:0, Molten Alumite Cover
-thermaldynamics:cover:0, Invar Block Cover
-thermaldynamics:cover:0, Molten Osmium Cover
-thermaldynamics:cover:0, Molten Refined Obsidian Cover
-thermaldynamics:cover:0, Refined Glowstone Cover
-thermaldynamics:cover:0, Osgloglas Block Cover
-thermaldynamics:cover:0, Molten Osgloglas Cover
-thermaldynamics:cover:0, Osmiridium Block Cover
-thermaldynamics:cover:0, Molten Osmiridium Cover
-thermaldynamics:cover:0, Frame Cover
+thermaldynamics:cover:0, Fluxed Electrum Block Cover
+thermaldynamics:cover:0, Flux Crystal Block Cover
+simplyjetpacks:itemjetpack:0, Creative Jetpack
+simplyjetpacks:itemjetpack:1, Iron Jetpack
+simplyjetpacks:itemjetpack:2, Gold Jetpack
+simplyjetpacks:itemjetpack:3, Diamond Jetpack
+simplyjetpacks:itemjetpack:4, Iron Jetpack (Armored)
+simplyjetpacks:itemjetpack:5, Gold Jetpack (Armored)
+simplyjetpacks:itemjetpack:6, Diamond Jetpack (Armored)
+simplyjetpacks:itemjetpack:7, Conductive Iron Jetpack
+simplyjetpacks:itemjetpack:8, Electrical Steel Jetpack
+simplyjetpacks:itemjetpack:9, Energetic Jetpack
+simplyjetpacks:itemjetpack:10, Vibrant Jetpack
+simplyjetpacks:itemjetpack:11, Conductive Iron Jetpack (Armored)
+simplyjetpacks:itemjetpack:12, Electrical Steel Jetpack (Armored)
+simplyjetpacks:itemjetpack:13, Energetic Jetpack (Armored)
+simplyjetpacks:itemjetpack:14, Vibrant Jetpack (Armored)
+simplyjetpacks:itemjetpack:15, Dark Soularium JetPlate
+simplyjetpacks:itemjetpack:16, Leadstone Jetpack
+simplyjetpacks:itemjetpack:17, Hardened Jetpack
+simplyjetpacks:itemjetpack:18, Reinforced Jetpack
+simplyjetpacks:itemjetpack:19, Resonant Jetpack
+simplyjetpacks:itemjetpack:20, Leadstone Jetpack (Armored)
+simplyjetpacks:itemjetpack:21, Hardened Jetpack (Armored)
+simplyjetpacks:itemjetpack:22, Reinforced Jetpack (Armored)
+simplyjetpacks:itemjetpack:23, Resonant Jetpack (Armored)
+simplyjetpacks:itemjetpack:24, Flux-Infused JetPlate
+simplyjetpacks:itemjetpack:26, Basic Jetpack
+simplyjetpacks:itemjetpack:27, Advanced Jetpack
+simplyjetpacks:itemjetpack:28, Elite Jetpack
+simplyjetpacks:itemjetpack:29, Ultimate Jetpack
+simplyjetpacks:itemjetpack:30, Basic Jetpack (Armored)
+simplyjetpacks:itemjetpack:31, Advanced Jetpack (Armored)
+simplyjetpacks:itemjetpack:32, Elite Jetpack (Armored)
+simplyjetpacks:itemjetpack:33, Ultimate Jetpack (Armored)
+simplyjetpacks:itemjetpack:34, Low Voltage Jetpack
+simplyjetpacks:itemjetpack:35, Medium Voltage Jetpack
+simplyjetpacks:itemjetpack:36, High Voltage Jetpack
+simplyjetpacks:itemjetpack:37, Low Voltage Jetpack (Armored)
+simplyjetpacks:itemjetpack:38, Medium Voltage Jetpack (Armored)
+simplyjetpacks:itemjetpack:39, High Voltage Jetpack (Armored)
+simplyjetpacks:itemfluxpack:0, Creative Fluxpack
+simplyjetpacks:itemfluxpack:1, Basic Capacitor Pack
+simplyjetpacks:itemfluxpack:2, Double-Layer Capacitor Pack
+simplyjetpacks:itemfluxpack:3, Octadic Capacitor Pack
+simplyjetpacks:itemfluxpack:4, Basic Capacitor Pack (Armored)
+simplyjetpacks:itemfluxpack:5, Double-Layer Capacitor Pack (Armored)
+simplyjetpacks:itemfluxpack:6, Octadic Capacitor Pack (Armored)
+simplyjetpacks:itemfluxpack:7, Leadstone Fluxpack
+simplyjetpacks:itemfluxpack:8, Hardened Fluxpack
+simplyjetpacks:itemfluxpack:9, Reinforced Fluxpack
+simplyjetpacks:itemfluxpack:10, Resonant Fluxpack
+simplyjetpacks:itemfluxpack:11, Leadstone Fluxpack (Armored)
+simplyjetpacks:itemfluxpack:12, Hardened Fluxpack (Armored)
+simplyjetpacks:itemfluxpack:13, Reinforced Fluxpack (Armored)
+simplyjetpacks:itemfluxpack:14, Resonant Fluxpack (Armored)
+simplyjetpacks:metaitem:0, Particle Customizer (Default)
+simplyjetpacks:metaitem:1, Particle Customizer (None)
+simplyjetpacks:metaitem:2, Particle Customizer (Smoke)
+simplyjetpacks:metaitem:3, Particle Customizer (Rainbow)
+simplyjetpacks:metaitem:4, Leather Strap
+simplyjetpacks:metaitemmods:0, Iron Thruster
+simplyjetpacks:metaitemmods:1, Gold Thruster
+simplyjetpacks:metaitemmods:2, Diamond Thruster
+simplyjetpacks:metaitemmods:3, Silicon Armor Plating
+simplyjetpacks:metaitemmods:4, Conductive Iron Armor Plating
+simplyjetpacks:metaitemmods:5, Electrical Steel Armor Plating
+simplyjetpacks:metaitemmods:6, Dark Steel Armor Plating
+simplyjetpacks:metaitemmods:7, Conductive Iron Thruster
+simplyjetpacks:metaitemmods:8, Electrical Steel Thruster
+simplyjetpacks:metaitemmods:9, Energetic Thruster
+simplyjetpacks:metaitemmods:10, Vibrant Thruster
+simplyjetpacks:metaitemmods:11, Dark Soularium Thruster
+simplyjetpacks:metaitemmods:12, Dark Soularium Ingot
+simplyjetpacks:metaitemmods:13, Reinforced Glider Wing
+simplyjetpacks:metaitemmods:14, Flight Control Unit (Empty)
+simplyjetpacks:metaitemmods:15, Flight Control Unit
+simplyjetpacks:metaitemmods:31, Basic Armor Plating
+simplyjetpacks:metaitemmods:32, Advanced Armor Plating
+simplyjetpacks:metaitemmods:33, Elite Armor Plating
+simplyjetpacks:metaitemmods:34, Ultimate Armor Plating
+simplyjetpacks:metaitemmods:35, Basic Thruster
+simplyjetpacks:metaitemmods:36, Advanced Thruster
+simplyjetpacks:metaitemmods:37, Elite Thruster
+simplyjetpacks:metaitemmods:38, Ultimate Thruster
+simplyjetpacks:metaitemmods:39, Tough Fabric Padding
+simplyjetpacks:metaitemmods:40, Iron Armor Plating
+simplyjetpacks:metaitemmods:41, Steel Armor Plating
+simplyjetpacks:metaitemmods:42, Low Voltage Thruster
+simplyjetpacks:metaitemmods:43, Medium Voltage Thruster
+simplyjetpacks:metaitemmods:44, High Voltage Thruster
+simplyjetpacks:metaitemmods:24, Fluxed Thruster
+simplyjetpacks:metaitemmods:25, Flux-Infused Chestplate Assembly
+simplyjetpacks:metaitemmods:26, Fluxed Armor Plating
+simplyjetpacks:metaitemmods:27, Glowstone Elevation Unit (Empty)
+simplyjetpacks:metaitemmods:28, Glowstone Elevation Unit
+simplyjetpacks:metaitemmods:29, Cryotheum Coolant Unit (Empty)
+simplyjetpacks:metaitemmods:30, Cryotheum Coolant Unit
+simplyjetpacks:pilot_goggles, Pilot Goggles
+plustic:alumitenugget, Alumite Nugget
+plustic:alumiteingot, Alumite Ingot
+plustic:alumiteblock, Alumite Block
+plustic:plustic.molten_alumite, Molten Alumite
+plustic:invarnugget, Invar Nugget
+plustic:invaringot, Invar Ingot
+plustic:invarblock, Invar Block
+plustic:plustic.molten_osmium, Molten Osmium
+plustic:plustic.molten_refinedobsidian, Molten Refined Obsidian
+plustic:plustic.molten_refinedglowstone, Refined Glowstone
+plustic:osgloglasnugget, Osgloglas Nugget
+plustic:osgloglasingot, Osgloglas Ingot
+plustic:osgloglasblock, Osgloglas Block
+plustic:plustic.molten_osgloglas, Molten Osgloglas
+plustic:osmiridiumnugget, Osmiridium Nugget
+plustic:osmiridiumingot, Osmiridium Ingot
+plustic:osmiridiumblock, Osmiridium Block
+plustic:plustic.molten_osmiridium, Molten Osmiridium
+projectred-integration:gate:0, OR Gate
+projectred-integration:gate:1, NOR Gate
+projectred-integration:gate:2, NOT Gate
+projectred-integration:gate:3, AND Gate
+projectred-integration:gate:4, NAND Gate
+projectred-integration:gate:5, XOR Gate
+projectred-integration:gate:6, XNOR Gate
+projectred-integration:gate:7, Buffer Gate
+projectred-integration:gate:8, Multiplexer
+projectred-integration:gate:9, Pulse Former
+projectred-integration:gate:10, Repeater
+projectred-integration:gate:11, Randomizer
+projectred-integration:gate:12, RS Latch
+projectred-integration:gate:13, Toggle Latch
+projectred-integration:gate:14, Transparent Latch
+projectred-integration:gate:15, Light Sensor
+projectred-integration:gate:16, Rain Sensor
+projectred-integration:gate:17, Timer
+projectred-integration:gate:18, Sequencer
+projectred-integration:gate:19, Counter
+projectred-integration:gate:20, State Cell
+projectred-integration:gate:21, Synchronizer
+projectred-integration:gate:22, Bus Transceiver
+projectred-integration:gate:23, Null Cell
+projectred-integration:gate:24, Invert Cell
+projectred-integration:gate:25, Buffer Cell
+projectred-integration:gate:26, Comparator
+projectred-integration:gate:27, AND Cell
+projectred-integration:gate:28, Bus Randomizer
+projectred-integration:gate:29, Bus Converter
+projectred-integration:gate:30, Bus Input Panel
+projectred-integration:gate:31, Data Cell
+projectred-integration:gate:32, Segment Display Gate
+projectred-integration:gate:33, Dec Randomizer
+projectred-integration:gate:34, IC Gate
+projectred-transmission:wire:0, Red Alloy Wire
+projectred-transmission:wire:1, White Insulated Wire
+projectred-transmission:wire:2, Orange Insulated Wire
+projectred-transmission:wire:3, Magenta Insulated Wire
+projectred-transmission:wire:4, Light Blue Insulated Wire
+projectred-transmission:wire:5, Yellow Insulated Wire
+projectred-transmission:wire:6, Lime Insulated Wire
+projectred-transmission:wire:7, Pink Insulated Wire
+projectred-transmission:wire:8, Grey Insulated Wire
+projectred-transmission:wire:9, Light Grey Insulated Wire
+projectred-transmission:wire:10, Cyan Insulated Wire
+projectred-transmission:wire:11, Purple Insulated Wire
+projectred-transmission:wire:12, Blue Insulated Wire
+projectred-transmission:wire:13, Brown Insulated Wire
+projectred-transmission:wire:14, Green Insulated Wire
+projectred-transmission:wire:15, Red Insulated Wire
+projectred-transmission:wire:16, Black Insulated Wire
+projectred-transmission:wire:17, Bundled Cable
+projectred-transmission:wire:18, White Bundled Cable
+projectred-transmission:wire:19, Orange Bundled Cable
+projectred-transmission:wire:20, Magenta Bundled Cable
+projectred-transmission:wire:21, Light Blue Bundled Cable
+projectred-transmission:wire:22, Yellow Bundled Cable
+projectred-transmission:wire:23, Lime Bundled Cable
+projectred-transmission:wire:24, Pink Bundled Cable
+projectred-transmission:wire:25, Grey Bundled Cable
+projectred-transmission:wire:26, Light Grey Bundled Cable
+projectred-transmission:wire:27, Cyan Bundled Cable
+projectred-transmission:wire:28, Purple Bundled Cable
+projectred-transmission:wire:29, Blue Bundled Cable
+projectred-transmission:wire:30, Brown Bundled Cable
+projectred-transmission:wire:31, Green Bundled Cable
+projectred-transmission:wire:32, Red Bundled Cable
+projectred-transmission:wire:33, Black Bundled Cable
+projectred-transmission:wire:34, Low Load Power Line
+projectred-transmission:framed_wire:0, Framed Red Alloy Wire
+projectred-transmission:framed_wire:1, Framed White Insulated Wire
+projectred-transmission:framed_wire:2, Framed Orange Insulated Wire
+projectred-transmission:framed_wire:3, Framed Magenta Insulated Wire
+projectred-transmission:framed_wire:4, Framed Light Blue Insulated Wire
+projectred-transmission:framed_wire:5, Framed Yellow Insulated Wire
+projectred-transmission:framed_wire:6, Framed Lime Insulated Wire
+projectred-transmission:framed_wire:7, Framed Pink Insulated Wire
+projectred-transmission:framed_wire:8, Framed Grey Insulated Wire
+projectred-transmission:framed_wire:9, Framed Light Grey Insulated Wire
+projectred-transmission:framed_wire:10, Framed Cyan Insulated Wire
+projectred-transmission:framed_wire:11, Framed Purple Insulated Wire
+projectred-transmission:framed_wire:12, Framed Blue Insulated Wire
+projectred-transmission:framed_wire:13, Framed Brown Insulated Wire
+projectred-transmission:framed_wire:14, Framed Green Insulated Wire
+projectred-transmission:framed_wire:15, Framed Red Insulated Wire
+projectred-transmission:framed_wire:16, Framed Black Insulated Wire
+projectred-transmission:framed_wire:17, Framed Bundled Cable
+projectred-transmission:framed_wire:34, Framed Low Load Power Line
+projectred-fabrication:ic_machine:0, IC Workbench
+projectred-fabrication:ic_machine:1, IC Printer
+projectred-fabrication:ic_blueprint, IC Blueprint
+projectred-fabrication:ic_chip:0, IC Chip
+projectred-fabrication:ic_chip:1, Creative Mode IC Chip
+projectred-illumination:lamp:0, White Lamp
+projectred-illumination:lamp:1, Orange Lamp
+projectred-illumination:lamp:2, Magenta Lamp
+projectred-illumination:lamp:3, Light Blue Lamp
+projectred-illumination:lamp:4, Yellow Lamp
+projectred-illumination:lamp:5, Lime Lamp
+projectred-illumination:lamp:6, Pink Lamp
+projectred-illumination:lamp:7, Grey Lamp
+projectred-illumination:lamp:8, Light Grey Lamp
+projectred-illumination:lamp:9, Cyan Lamp
+projectred-illumination:lamp:10, Purple Lamp
+projectred-illumination:lamp:11, Blue Lamp
+projectred-illumination:lamp:12, Brown Lamp
+projectred-illumination:lamp:13, Green Lamp
+projectred-illumination:lamp:14, Red Lamp
+projectred-illumination:lamp:15, Black Lamp
+projectred-illumination:lamp:16, Inverted White Lamp
+projectred-illumination:lamp:17, Inverted Orange Lamp
+projectred-illumination:lamp:18, Inverted Magenta Lamp
+projectred-illumination:lamp:19, Inverted Light Blue Lamp
+projectred-illumination:lamp:20, Inverted Yellow Lamp
+projectred-illumination:lamp:21, Inverted Lime Lamp
+projectred-illumination:lamp:22, Inverted Pink Lamp
+projectred-illumination:lamp:23, Inverted Grey Lamp
+projectred-illumination:lamp:24, Inverted Light Grey Lamp
+projectred-illumination:lamp:25, Inverted Cyan Lamp
+projectred-illumination:lamp:26, Inverted Purple Lamp
+projectred-illumination:lamp:27, Inverted Blue Lamp
+projectred-illumination:lamp:28, Inverted Brown Lamp
+projectred-illumination:lamp:29, Inverted Green Lamp
+projectred-illumination:lamp:30, Inverted Red Lamp
+projectred-illumination:lamp:31, Inverted Black Lamp
+projectred-illumination:light_button:0, White Illumar Button
+projectred-illumination:light_button:1, Orange Illumar Button
+projectred-illumination:light_button:2, Magenta Illumar Button
+projectred-illumination:light_button:3, Light Blue Illumar Button
+projectred-illumination:light_button:4, Yellow Illumar Button
+projectred-illumination:light_button:5, Lime Illumar Button
+projectred-illumination:light_button:6, Pink Illumar Button
+projectred-illumination:light_button:7, Grey Illumar Button
+projectred-illumination:light_button:8, Light Grey Illumar Button
+projectred-illumination:light_button:9, Cyan Illumar Button
+projectred-illumination:light_button:10, Purple Illumar Button
+projectred-illumination:light_button:11, Blue Illumar Button
+projectred-illumination:light_button:12, Brown Illumar Button
+projectred-illumination:light_button:13, Green Illumar Button
+projectred-illumination:light_button:14, Red Illumar Button
+projectred-illumination:light_button:15, Black Illumar Button
+projectred-illumination:feedback_light_button:0, White Illumar Feedback Button
+projectred-illumination:feedback_light_button:1, Orange Illumar Feedback Button
+projectred-illumination:feedback_light_button:2, Magenta Illumar Feedback Button
+projectred-illumination:feedback_light_button:3, Light Blue Illumar Feedback Button
+projectred-illumination:feedback_light_button:4, Yellow Illumar Feedback Button
+projectred-illumination:feedback_light_button:5, Lime Illumar Feedback Button
+projectred-illumination:feedback_light_button:6, Pink Illumar Feedback Button
+projectred-illumination:feedback_light_button:7, Grey Illumar Feedback Button
+projectred-illumination:feedback_light_button:8, Light Grey Illumar Feedback Button
+projectred-illumination:feedback_light_button:9, Cyan Illumar Feedback Button
+projectred-illumination:feedback_light_button:10, Purple Illumar Feedback Button
+projectred-illumination:feedback_light_button:11, Blue Illumar Feedback Button
+projectred-illumination:feedback_light_button:12, Brown Illumar Feedback Button
+projectred-illumination:feedback_light_button:13, Green Illumar Feedback Button
+projectred-illumination:feedback_light_button:14, Red Illumar Feedback Button
+projectred-illumination:feedback_light_button:15, Black Illumar Feedback Button
+projectred-illumination:lantern:0, White Lantern
+projectred-illumination:lantern:1, Orange Lantern
+projectred-illumination:lantern:2, Magenta Lantern
+projectred-illumination:lantern:3, Light Blue Lantern
+projectred-illumination:lantern:4, Yellow Lantern
+projectred-illumination:lantern:5, Lime Lantern
+projectred-illumination:lantern:6, Pink Lantern
+projectred-illumination:lantern:7, Grey Lantern
+projectred-illumination:lantern:8, Light Grey Lantern
+projectred-illumination:lantern:9, Cyan Lantern
+projectred-illumination:lantern:10, Purple Lantern
+projectred-illumination:lantern:11, Blue Lantern
+projectred-illumination:lantern:12, Brown Lantern
+projectred-illumination:lantern:13, Green Lantern
+projectred-illumination:lantern:14, Red Lantern
+projectred-illumination:lantern:15, Black Lantern
+projectred-illumination:inverted_lantern:0, Inverted White Lantern
+projectred-illumination:inverted_lantern:1, Inverted Orange Lantern
+projectred-illumination:inverted_lantern:2, Inverted Magenta Lantern
+projectred-illumination:inverted_lantern:3, Inverted Light Blue Lantern
+projectred-illumination:inverted_lantern:4, Inverted Yellow Lantern
+projectred-illumination:inverted_lantern:5, Inverted Lime Lantern
+projectred-illumination:inverted_lantern:6, Inverted Pink Lantern
+projectred-illumination:inverted_lantern:7, Inverted Grey Lantern
+projectred-illumination:inverted_lantern:8, Inverted Light Grey Lantern
+projectred-illumination:inverted_lantern:9, Inverted Cyan Lantern
+projectred-illumination:inverted_lantern:10, Inverted Purple Lantern
+projectred-illumination:inverted_lantern:11, Inverted Blue Lantern
+projectred-illumination:inverted_lantern:12, Inverted Brown Lantern
+projectred-illumination:inverted_lantern:13, Inverted Green Lantern
+projectred-illumination:inverted_lantern:14, Inverted Red Lantern
+projectred-illumination:inverted_lantern:15, Inverted Black Lantern
+projectred-illumination:fixture_light:0, White Fixture
+projectred-illumination:fixture_light:1, Orange Fixture
+projectred-illumination:fixture_light:2, Magenta Fixture
+projectred-illumination:fixture_light:3, Light Blue Fixture
+projectred-illumination:fixture_light:4, Yellow Fixture
+projectred-illumination:fixture_light:5, Lime Fixture
+projectred-illumination:fixture_light:6, Pink Fixture
+projectred-illumination:fixture_light:7, Grey Fixture
+projectred-illumination:fixture_light:8, Light Grey Fixture
+projectred-illumination:fixture_light:9, Cyan Fixture
+projectred-illumination:fixture_light:10, Purple Fixture
+projectred-illumination:fixture_light:11, Blue Fixture
+projectred-illumination:fixture_light:12, Brown Fixture
+projectred-illumination:fixture_light:13, Green Fixture
+projectred-illumination:fixture_light:14, Red Fixture
+projectred-illumination:fixture_light:15, Black Fixture
+projectred-illumination:inverted_fixture_light:0, Inverted White Fixture
+projectred-illumination:inverted_fixture_light:1, Inverted Orange Fixture
+projectred-illumination:inverted_fixture_light:2, Inverted Magenta Fixture
+projectred-illumination:inverted_fixture_light:3, Inverted Light Blue Fixture
+projectred-illumination:inverted_fixture_light:4, Inverted Yellow Fixture
+projectred-illumination:inverted_fixture_light:5, Inverted Lime Fixture
+projectred-illumination:inverted_fixture_light:6, Inverted Pink Fixture
+projectred-illumination:inverted_fixture_light:7, Inverted Grey Fixture
+projectred-illumination:inverted_fixture_light:8, Inverted Light Grey Fixture
+projectred-illumination:inverted_fixture_light:9, Inverted Cyan Fixture
+projectred-illumination:inverted_fixture_light:10, Inverted Purple Fixture
+projectred-illumination:inverted_fixture_light:11, Inverted Blue Fixture
+projectred-illumination:inverted_fixture_light:12, Inverted Brown Fixture
+projectred-illumination:inverted_fixture_light:13, Inverted Green Fixture
+projectred-illumination:inverted_fixture_light:14, Inverted Red Fixture
+projectred-illumination:inverted_fixture_light:15, Inverted Black Fixture
+projectred-illumination:fallout_lamp:0, White Fallout Light
+projectred-illumination:fallout_lamp:1, Orange Fallout Light
+projectred-illumination:fallout_lamp:2, Magenta Fallout Light
+projectred-illumination:fallout_lamp:3, Light Blue Fallout Light
+projectred-illumination:fallout_lamp:4, Yellow Fallout Light
+projectred-illumination:fallout_lamp:5, Lime Fallout Light
+projectred-illumination:fallout_lamp:6, Pink Fallout Light
+projectred-illumination:fallout_lamp:7, Grey Fallout Light
+projectred-illumination:fallout_lamp:8, Light Grey Fallout Light
+projectred-illumination:fallout_lamp:9, Cyan Fallout Light
+projectred-illumination:fallout_lamp:10, Purple Fallout Light
+projectred-illumination:fallout_lamp:11, Blue Fallout Light
+projectred-illumination:fallout_lamp:12, Brown Fallout Light
+projectred-illumination:fallout_lamp:13, Green Fallout Light
+projectred-illumination:fallout_lamp:14, Red Fallout Light
+projectred-illumination:fallout_lamp:15, Black Fallout Light
+projectred-illumination:inverted_fallout_lamp:0, Inverted White Fallout Light
+projectred-illumination:inverted_fallout_lamp:1, Inverted Orange Fallout Light
+projectred-illumination:inverted_fallout_lamp:2, Inverted Magenta Fallout Light
+projectred-illumination:inverted_fallout_lamp:3, Inverted Light Blue Fallout Light
+projectred-illumination:inverted_fallout_lamp:4, Inverted Yellow Fallout Light
+projectred-illumination:inverted_fallout_lamp:5, Inverted Lime Fallout Light
+projectred-illumination:inverted_fallout_lamp:6, Inverted Pink Fallout Light
+projectred-illumination:inverted_fallout_lamp:7, Inverted Grey Fallout Light
+projectred-illumination:inverted_fallout_lamp:8, Inverted Light Grey Fallout Light
+projectred-illumination:inverted_fallout_lamp:9, Inverted Cyan Fallout Light
+projectred-illumination:inverted_fallout_lamp:10, Inverted Purple Fallout Light
+projectred-illumination:inverted_fallout_lamp:11, Inverted Blue Fallout Light
+projectred-illumination:inverted_fallout_lamp:12, Inverted Brown Fallout Light
+projectred-illumination:inverted_fallout_lamp:13, Inverted Green Fallout Light
+projectred-illumination:inverted_fallout_lamp:14, Inverted Red Fallout Light
+projectred-illumination:inverted_fallout_lamp:15, Inverted Black Fallout Light
+projectred-illumination:cage_lamp:0, White Cage Lamp
+projectred-illumination:cage_lamp:1, Orange Cage Lamp
+projectred-illumination:cage_lamp:2, Magenta Cage Lamp
+projectred-illumination:cage_lamp:3, Light Blue Cage Lamp
+projectred-illumination:cage_lamp:4, Yellow Cage Lamp
+projectred-illumination:cage_lamp:5, Lime Cage Lamp
+projectred-illumination:cage_lamp:6, Pink Cage Lamp
+projectred-illumination:cage_lamp:7, Grey Cage Lamp
+projectred-illumination:cage_lamp:8, Light Grey Cage Lamp
+projectred-illumination:cage_lamp:9, Cyan Cage Lamp
+projectred-illumination:cage_lamp:10, Purple Cage Lamp
+projectred-illumination:cage_lamp:11, Blue Cage Lamp
+projectred-illumination:cage_lamp:12, Brown Cage Lamp
+projectred-illumination:cage_lamp:13, Green Cage Lamp
+projectred-illumination:cage_lamp:14, Red Cage Lamp
+projectred-illumination:cage_lamp:15, Black Cage Lamp
+projectred-illumination:inverted_cage_lamp:0, Inverted White Cage Lamp
+projectred-illumination:inverted_cage_lamp:1, Inverted Orange Cage Lamp
+projectred-illumination:inverted_cage_lamp:2, Inverted Magenta Cage Lamp
+projectred-illumination:inverted_cage_lamp:3, Inverted Light Blue Cage Lamp
+projectred-illumination:inverted_cage_lamp:4, Inverted Yellow Cage Lamp
+projectred-illumination:inverted_cage_lamp:5, Inverted Lime Cage Lamp
+projectred-illumination:inverted_cage_lamp:6, Inverted Pink Cage Lamp
+projectred-illumination:inverted_cage_lamp:7, Inverted Grey Cage Lamp
+projectred-illumination:inverted_cage_lamp:8, Inverted Light Grey Cage Lamp
+projectred-illumination:inverted_cage_lamp:9, Inverted Cyan Cage Lamp
+projectred-illumination:inverted_cage_lamp:10, Inverted Purple Cage Lamp
+projectred-illumination:inverted_cage_lamp:11, Inverted Blue Cage Lamp
+projectred-illumination:inverted_cage_lamp:12, Inverted Brown Cage Lamp
+projectred-illumination:inverted_cage_lamp:13, Inverted Green Cage Lamp
+projectred-illumination:inverted_cage_lamp:14, Inverted Red Cage Lamp
+projectred-illumination:inverted_cage_lamp:15, Inverted Black Cage Lamp
+projectred-expansion:solar_panel, Solar Panel
+projectred-expansion:empty_battery, Battery
+projectred-expansion:charged_battery, Battery
+projectred-expansion:jetpack, Jetpack
+projectred-expansion:electric_screwdriver, Electric Screwdriver
+projectred-expansion:infused_ender_pearl, Infused Ender Pearl
+projectred-expansion:plan, Recipe Plan
+projectred-expansion:machine1:0, Inductive Furnace
+projectred-expansion:machine1:1, Electrotine Generator
+projectred-expansion:machine2:0, Block Breaker
+projectred-expansion:machine2:1, Item Importer
+projectred-expansion:machine2:2, Block Placer
+projectred-expansion:machine2:3, Filtered Importer
+projectred-expansion:machine2:4, Fire Starter
+projectred-expansion:machine2:5, Battery Box
+projectred-expansion:machine2:6, Charging Bench
+projectred-expansion:machine2:7, Teleposer
+projectred-expansion:machine2:8, Frame Motor
+projectred-expansion:machine2:9, Frame Linear Actuator
+projectred-expansion:machine2:10, Project Bench
+projectred-expansion:machine2:11, Auto Crafting Bench
+projectred-expansion:machine2:12, Diamond Block Breaker
+projectred-relocation:frame, Frame
+projectred-transportation:pipe:0, Item Transport pipe
+projectred-transportation:pipe:1, Routed Junction pipe
+projectred-transportation:pipe:2, Routed Interface pipe
+projectred-transportation:pipe:3, Routed Request pipe
+projectred-transportation:pipe:4, Routed Firewall pipe
+projectred-transportation:pipe:32, Network Valve pipe
+projectred-transportation:pipe:33, Network Latency pipe
+projectred-transportation:pipe:64, Pressure tube
+projectred-transportation:pipe:65, Pressure Resistance tube
+projectred-transportation:routing_chip:0, Item Responder chip
+projectred-transportation:routing_chip:1, Dynamic Item Responder chip
+projectred-transportation:routing_chip:2, Item Overflow Responder chip
+projectred-transportation:routing_chip:3, Item Terminator chip
+projectred-transportation:routing_chip:4, Item Extractor chip
+projectred-transportation:routing_chip:5, Item Broadcaster chip
+projectred-transportation:routing_chip:6, Item Stock Keeper chip
+projectred-transportation:routing_chip:7, Item Crafting chip
+projectred-transportation:routing_chip:8, Item Crafting Extension chip
+projectred-transportation:router_utility, Router Utility
+solarflux:solar_panel_1, Solar Panel I
+solarflux:solar_panel_2, Solar Panel II
+solarflux:solar_panel_3, Solar Panel III
+solarflux:solar_panel_4, Solar Panel IV
+solarflux:solar_panel_5, Solar Panel V
+solarflux:solar_panel_6, Solar Panel VI
+solarflux:solar_panel_7, Solar Panel VII
+solarflux:solar_panel_8, Solar Panel VIII
+solarflux:mirror, Mirror
+solarflux:photovoltaic_cell_1, Photovoltaic Cell I
+solarflux:photovoltaic_cell_2, Photovoltaic Cell II
+solarflux:photovoltaic_cell_3, Photovoltaic Cell III
+solarflux:photovoltaic_cell_4, Photovoltaic Cell IV
+solarflux:photovoltaic_cell_5, Photovoltaic Cell V
+solarflux:photovoltaic_cell_6, Photovoltaic Cell VI
+solarflux:blank_upgrade, Blank Upgrade
+solarflux:efficiency_upgrade, Efficiency Upgrade
+solarflux:transfer_rate_upgrade, Transfer Rate Upgrade
+solarflux:capacity_upgrade, Capacity Upgrade
+solarflux:traversal_upgrade, Machine Traversal Upgrade
+solarflux:dispersive_upgrade, Dispersive Upgrade
+solarflux:block_charging_upgrade, Block Charging Upgrade
+solarflux:furnace_upgrade, Furnace Upgrade
+thermalcultivation:watering_can:0, Watering Can (Basic)
+thermalcultivation:watering_can:1, Watering Can (Hardened)
+thermalcultivation:watering_can:2, Watering Can (Reinforced)
+thermalcultivation:watering_can:3, Watering Can (Signalum)
+thermalcultivation:watering_can:4, Watering Can (Resonant)
+thermalcultivation:watering_can:32000, Watering Can (Creative)
 thermalinnovation:drill:0, Fluxbore (Basic)
 thermalinnovation:drill:1, Fluxbore (Hardened)
 thermalinnovation:drill:2, Fluxbore (Reinforced)
@@ -4360,6 +4499,8 @@ appliedenergistics2:facade:0, Cable Facade - Supercold Ice
 appliedenergistics2:facade:0, Cable Facade - Fusion Connector
 appliedenergistics2:facade:0, Cable Facade - Wasteland Earth
 appliedenergistics2:facade:0, Cable Facade - Tritium Lamp
+appliedenergistics2:facade:0, Cable Facade - Fluxed Electrum Block
+appliedenergistics2:facade:0, Cable Facade - Flux Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Alumite Block
 appliedenergistics2:facade:0, Cable Facade - Invar Block
 appliedenergistics2:facade:0, Cable Facade - Osgloglas Block
@@ -4487,6 +4628,8 @@ appliedenergistics2:facade:0, Cable Facade - Triangle Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Small Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Brownstone Tiles
 appliedenergistics2:facade:0, Cable Facade - Dense Construction Block
+appliedenergistics2:facade:0, Cable Facade - Soot-covered Machine Casing
+appliedenergistics2:facade:0, Cable Facade - Glitch Infused Block
 appliedenergistics2:facade:0, Cable Facade - Osmium Block
 appliedenergistics2:facade:0, Cable Facade - Bronze Block
 appliedenergistics2:facade:0, Cable Facade - Refined Obsidian
@@ -4660,6 +4803,7 @@ appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Block of Steel
 appliedenergistics2:facade:0, Cable Facade - Redstone Coil Block
 appliedenergistics2:facade:0, Cable Facade - Block of Stainless Steel
+appliedenergistics2:facade:0, Cable Facade - Stainless Sheetmetal
 appliedenergistics2:facade:0, Cable Facade - Treated Bricks
 appliedenergistics2:facade:0, Cable Facade - Water Spring
 appliedenergistics2:facade:0, Cable Facade - Oil Spring
@@ -6239,44 +6383,44 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Laser Medium Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Pipe Piece Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Helmet Core Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Battery Cell Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Pipe Piece Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Battery Cell Pattern
+tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -8130,88 +8274,88 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Fletching Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Laser Medium Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Pipe Piece Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Helmet Core Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Battery Cell Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Pipe Piece Cast
 tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Fletching Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Battery Cell Cast
+tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Laser Medium Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Fletching Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Laser Medium Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Pipe Piece Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Battery Cell Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Pipe Piece Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Fletching Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Battery Cell Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Laser Medium Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -8901,6 +9045,61 @@ danknull:dank_null_panel_3, Gold /dank/null Panel
 danknull:dank_null_panel_4, Diamond /dank/null Panel
 danknull:dank_null_panel_5, Emerald /dank/null Panel
 danknull:danknull_dock, /dank/null Docking Station
+deepmoblearning:machine_casing, Soot-covered Machine Casing
+deepmoblearning:infused_ingot_block, Glitch Infused Block
+deepmoblearning:simulation_chamber, Simulation Chamber
+deepmoblearning:extraction_chamber, Loot Fabricator
+deepmoblearning:trial_keystone, Trial Keystone
+deepmoblearning:soot_covered_redstone, Soot-covered Redstone
+deepmoblearning:soot_covered_plate, Soot-covered Plate
+deepmoblearning:polymer_clay, Polymer Clay
+deepmoblearning:deep_learner, §bDeep Learner§r
+deepmoblearning:data_model_blank, Blank Data Model
+deepmoblearning:creative_model_learner, Creative Model Learner
+deepmoblearning:trial_key, §bTrial Key§r
+deepmoblearning:glitch_heart, §bCorrupted Glitch Heart§r
+deepmoblearning:glitch_fragment, §bUnstable Glitch Fragment§r
+deepmoblearning:glitch_infused_ingot, §bGlitch Infused Ingot§r
+deepmoblearning:glitch_infused_helmet, §bGlitch Infused Helmet§r
+deepmoblearning:glitch_infused_chestplate, §bGlitch Infused Chestplate§r
+deepmoblearning:glitch_infused_leggings, §bGlitch Infused Leggings§r
+deepmoblearning:glitch_infused_boots, §bGlitch Infused Greaves§r
+deepmoblearning:glitch_infused_sword, §bGlitch Infused Sword§r
+deepmoblearning:data_model_zombie, §bZombie Data Model§r
+deepmoblearning:data_model_skeleton, §bSkeleton Data Model§r
+deepmoblearning:data_model_creeper, §bCreeper Data Model§r
+deepmoblearning:data_model_spider, §bSpider Data Model§r
+deepmoblearning:data_model_slime, §bSlime Data Model§r
+deepmoblearning:data_model_witch, §bWitch Data Model§r
+deepmoblearning:data_model_blaze, §bBlaze Data Model§r
+deepmoblearning:data_model_ghast, §bGhast Data Model§r
+deepmoblearning:data_model_wither_skeleton, §bWither Skeleton Data Model§r
+deepmoblearning:data_model_enderman, §bEnderman Data Model§r
+deepmoblearning:data_model_wither, §bWither Data Model§r
+deepmoblearning:data_model_dragon, §bEnder Dragon Data Model§r
+deepmoblearning:data_model_shulker, §bShulker Data Model§r
+deepmoblearning:data_model_guardian, §bGuardian Data Model§r
+deepmoblearning:data_model_thermal_elemental, §bThermal Elemental Data Model§r
+deepmoblearning:data_model_tinker_slime, §bBlue Slime Data Model§r
+deepmoblearning:living_matter_overworldian, Overworldian Matter
+deepmoblearning:living_matter_hellish, Hellish Matter
+deepmoblearning:living_matter_extraterrestrial, Extraterrestrial Matter
+deepmoblearning:pristine_matter_zombie, Pristine Zombie Matter
+deepmoblearning:pristine_matter_skeleton, Pristine Skeleton Matter
+deepmoblearning:pristine_matter_creeper, Pristine Creeper Matter
+deepmoblearning:pristine_matter_spider, Pristine Spider Matter
+deepmoblearning:pristine_matter_slime, Pristine Slime Matter
+deepmoblearning:pristine_matter_witch, Pristine Witch Matter
+deepmoblearning:pristine_matter_blaze, Pristine Blaze Matter
+deepmoblearning:pristine_matter_ghast, Pristine Ghast Matter
+deepmoblearning:pristine_matter_wither_skeleton, Pristine Wither Skeleton Matter
+deepmoblearning:pristine_matter_enderman, Pristine Enderman Matter
+deepmoblearning:pristine_matter_wither, Pristine Wither Matter
+deepmoblearning:pristine_matter_dragon, Pristine Ender Dragon Matter
+deepmoblearning:pristine_matter_shulker, Pristine Shulker Matter
+deepmoblearning:pristine_matter_guardian, Pristine Guardian Matter
+deepmoblearning:pristine_matter_thermal_elemental, Pristine Thermal Elemental Matter
+deepmoblearning:pristine_matter_tinker_slime, Pristine Blue Slime Matter
 demagnetize:demagnetizer, Demagnetizer
 demagnetize:demagnetizer_advanced, Advanced Demagnetizer
 mekanism:electricbow, Electric Bow
@@ -10269,6 +10468,27 @@ plustic:battery_cell:0, Osmium Battery Cell
 plustic:battery_cell:0, Fluix Crystal Battery Cell
 plustic:laser_gun, Laser Gun
 plustic:katana, Katana
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -10319,27 +10539,6 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 tinker_io:cd_lonesome_avenue, Music Disc
 tinker_io:upg:0, Base Upgrade
 tinker_io:upg:1, Slot Upgrade I
@@ -10498,6 +10697,7 @@ industrialwires:key:2, Key Ring
 base:wrench, Wrench
 contenttweaker:block_coil_redstone:0, Redstone Coil Block
 contenttweaker:block_stainless:0, Block of Stainless Steel
+contenttweaker:block_sheetmetal_stainless:0, Stainless Sheetmetal
 contenttweaker:ingot_stainless, Stainless Steel Ingot
 contenttweaker:plate_stainless, Stainless Steel Plate
 contenttweaker:dust_stainless, Stainless Steel Dust
@@ -10681,6 +10881,7 @@ buildcraftfactory:heat_exchange, Heat Exchanger
 buildcraftfactory:water_gel_spawn, Water Gelifier
 buildcraftfactory:gel, Gelled Water
 buildcraftrobotics:zone_planner, Zone Planner
+patchouli:guide_book, Guide Book
 ae2fc:fluid_discretizer, ME Fluid Discretizer
 ae2fc:fluid_pattern_encoder, Fluid Pattern Encoder
 ae2fc:fluid_packet_decoder, ME Fluid Packet Decoder

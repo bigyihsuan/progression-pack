@@ -1,0 +1,96 @@
+{
+	title: "Akashic Tome",
+	icon: {
+		id: "akashictome:tome",
+		tag: {
+			"akashictome:data": {
+				tconstruct: {
+					id: "tconstruct:book",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "tconstruct"
+					},
+					Damage: 0s
+				},
+				industrialforegoing: {
+					id: "industrialforegoing:book_manual",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "industrialforegoing"
+					},
+					Damage: 0s
+				},
+				buildcraftlib: {
+					id: "buildcraftlib:guide",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "buildcraftlib"
+					},
+					Damage: 0s
+				},
+				conarm: {
+					id: "conarm:book",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "conarm"
+					},
+					Damage: 0s
+				},
+				ftbquests: {
+					id: "ftbquests:book",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "ftbquests"
+					},
+					Damage: 0s
+				},
+				immersiveengineering: {
+					id: "immersiveengineering:tool",
+					Count: 1b,
+					tag: {
+						"akashictome:definedMod": "immersiveengineering"
+					},
+					Damage: 3s
+				},
+				logisticspipes: {
+					id: "logisticspipes:guide_book",
+					Count: 1b,
+					tag: {
+						bookmarks: [],
+						"akashictome:definedMod": "logisticspipes",
+						page: {
+							progress: 1.0f,
+							page: "/main_menu.md"
+						},
+						version: 1b
+					},
+					Damage: 0s
+				}
+			}
+		}
+	},
+	x: 0.5d,
+	y: 0.5d,
+	text: [
+		"This mysterious tome can have multiple books inside.",
+		"",
+		"Right click to choose a book."
+	],
+	dependencies: [
+		"356e0aaf"
+	],
+	tasks: [{
+		uid: "91ae685b",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "52fc87d4",
+		type: "item",
+		item: "akashictome:tome"
+	},
+	{
+		uid: "0344a749",
+		type: "item",
+		item: "minecraft:bookshelf"
+	}]
+}

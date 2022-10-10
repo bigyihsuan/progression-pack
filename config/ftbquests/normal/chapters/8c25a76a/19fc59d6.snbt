@@ -1,0 +1,43 @@
+{
+	title: "Metal Press Molds",
+	x: -7.0d,
+	y: 4.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"1e3b9dc4"
+	],
+	tasks: [{
+		uid: "2f2c61ba",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:mold"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "109a54f5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:mold 1 1"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b24f51f4",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:mold 1 2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d487ba86",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:mold 1 4"
+		}],
+		ignore_nbt: 1b
+	}]
+}

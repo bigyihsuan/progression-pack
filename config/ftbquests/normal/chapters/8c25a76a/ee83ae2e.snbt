@@ -1,9 +1,9 @@
 {
 	title: "Rubber",
-	x: 5.0d,
-	y: 7.0d,
+	x: -2.0d,
+	y: 8.0d,
 	shape: "gear",
-	description: "Squishy, squashy, squəshy",
+	description: "Squishy, squashy, squoshy",
 	text: [
 		"Rubber is a complicated process involving several different machines.",
 		"",
@@ -29,5 +29,10 @@
 		items: [{
 			item: "ic2:crafting"
 		}]
+	},
+	{
+		uid: "edbfd1e5",
+		type: "fluid",
+		fluid: "rubber"
 	}]
 }

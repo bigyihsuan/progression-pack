@@ -1,0 +1,83 @@
+{
+	title: "Morphing Tool",
+	icon: {
+		id: "morphtool:tool",
+		tag: {
+			"morphtool:is_morphing": 1b,
+			"morphtool:data": {
+				enderio: {
+					id: "enderio:item_yeta_wrench",
+					Count: 1b,
+					tag: {
+						"morphtool:is_morphing": 1b,
+						display: {
+							Name: "§rMorphing Tool (§aYeta Wrench§r)"
+						},
+						"morphtool:displayName": "Yeta Wrench"
+					},
+					Damage: 0s
+				},
+				thermalfoundation: {
+					id: "thermalfoundation:wrench",
+					Count: 1b,
+					Damage: 0s
+				},
+				immersiveengineering: {
+					id: "immersiveengineering:tool",
+					Count: 1b,
+					Damage: 0s
+				},
+				ic2: {
+					id: "ic2:wrench",
+					Count: 1b,
+					Damage: 0s
+				},
+				buildcraftcore: {
+					id: "buildcraftcore:wrench",
+					Count: 1b,
+					Damage: 0s
+				},
+				appliedenergistics2: {
+					id: "appliedenergistics2:certus_quartz_wrench",
+					Count: 1b,
+					Damage: 0s
+				},
+				teslacorelib: {
+					id: "teslacorelib:wrench",
+					Count: 1b,
+					Damage: 0s
+				},
+				base: {
+					id: "base:wrench",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}
+	},
+	x: 0.5d,
+	y: -0.5d,
+	text: [
+		"This tool can hold all your wrenches and tools you use in 1 tool.",
+		"",
+		"Craft it with other wrenches, crowbars, etc to add it to the Morphing Tool."
+	],
+	can_repeat: true,
+	dependencies: [
+		"356e0aaf"
+	],
+	tasks: [{
+		uid: "5845154d",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "714cf511",
+		type: "item",
+		item: "morphtool:tool"
+	},
+	{
+		uid: "a878f878",
+		type: "item",
+		item: "minecraft:bookshelf"
+	}]
+}

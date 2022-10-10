@@ -1,8 +1,8 @@
 {
 	title: "Pumpjack",
 	icon: "immersivepetroleum:metal_multiblock 1 2",
-	x: 3.5d,
-	y: 4.5d,
+	x: -2.0d,
+	y: 6.0d,
 	dependencies: [
 		"f69f4425"
 	],

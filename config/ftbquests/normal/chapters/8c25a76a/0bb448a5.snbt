@@ -1,7 +1,7 @@
 {
 	title: "Coke Oven Products",
-	x: -0.5d,
-	y: -4.0d,
+	x: -3.5d,
+	y: 0.5d,
 	text: [
 		"There are 3 things you need from a Coke Oven: Coal Coke, Treated Wood, and Treated Bricks."
 	],

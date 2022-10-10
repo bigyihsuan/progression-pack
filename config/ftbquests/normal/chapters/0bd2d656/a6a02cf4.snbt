@@ -1,0 +1,17 @@
+{
+	title: "Welcome to IndustrialCraft2!",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"One of the \"OG\" mods, IndustrialCraft2 has a long and storied history.",
+		"",
+		"Finally, machines that aren't gigantic!"
+	],
+	dependencies: [
+		"6066e986"
+	],
+	tasks: [{
+		uid: "63fe5c12",
+		type: "checkmark"
+	}]
+}

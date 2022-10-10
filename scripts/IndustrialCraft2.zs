@@ -1,17 +1,3 @@
-// change basic machine casing to use stainless steel plate instead
-var basicMachineCasing = <ic2:resource:12>;
-var stainlessPlate = <contenttweaker:plate_stainless>;
-recipes.remove(basicMachineCasing);
-recipes.addShaped(
-    "stainless_basic_machine_casing",
-    basicMachineCasing,
-    [
-        [stainlessPlate, stainlessPlate, stainlessPlate],
-        [stainlessPlate, null, stainlessPlate],
-        [stainlessPlate, stainlessPlate, stainlessPlate],
-    ]
-);
-
 // remove using iron furnace
 var basicGenerator = <ic2:te:3>;
 var solidFuelFirebox = <ic2:te:15>;
@@ -27,9 +13,10 @@ recipes.removeShaped(
 );
 
 // change electricFurnace recipe to also use a basic machine casing
+var basicMachineCasing = <ic2:resource:12>;
 recipes.remove(electricFurnace);
 recipes.addShaped(
-    "basic_machine_casing_electric_furnace",
+    PACK + "basic_machine_casing_electric_furnace",
     electricFurnace,
     [
         [null,<ore:circuitBasic>,null],

@@ -1,8 +1,8 @@
 {
 	title: "Electrolytic Crucible Battery",
 	icon: "immersivetech:metal_multiblock1 1 6",
-	x: 6.5d,
-	y: 4.5d,
+	x: 2.0d,
+	y: 6.0d,
 	description: "A real big boi",
 	text: [
 		"This massive thing turns Molten Salt into Molten Sodium and Chlorine."

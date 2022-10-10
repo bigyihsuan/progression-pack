@@ -161,6 +161,11 @@ key_key.immersiveengineering.chemthrowerSwitch:0
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
 key_invtweaks.key.sort:19
+key_keybind.simplyjetpacks.gui:0
+key_keybind.simplyjetpacks.engine:40
+key_keybind.simplyjetpacks.charger:25
+key_keybind.simplyjetpacks.hover:39
+key_keybind.simplyjetpacks.emergency_hover:0
 key_key.plustic_release_entity.desc:11
 key_key.plustic_toggle_gui.desc:23
 key_key.plustic_set_portal.desc:49

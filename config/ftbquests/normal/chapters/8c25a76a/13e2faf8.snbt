@@ -1,8 +1,8 @@
 {
 	title: "(Primitive) Blast Furnace",
 	icon: "immersiveengineering:stone_device 1 1",
-	x: -1.5d,
-	y: -2.5d,
+	x: -3.5d,
+	y: 1.5d,
 	shape: "circle",
 	dependencies: [
 		"0bb448a5"

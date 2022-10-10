@@ -1,0 +1,22 @@
+{
+	title: "Welcome to the Conveniences Chapter!",
+	x: -1.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Very convenient, very human, very useful",
+	text: [
+		"Welcome to the Conveniences chapter!",
+		"",
+		"This tab of the quest book is *completely optional*. It has all sorts of nice utilities for your experience when playing this pack."
+	],
+	dependencies: [
+		"26018a36"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "fd159bff",
+		type: "checkmark",
+		title: "It's convenient",
+		disable_toast: true
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Exchanging Gadget",
+	x: -3.5d,
+	y: -0.5d,
+	text: [
+		"This tool exchanges blocks."
+	],
+	dependencies: [
+		"25166f36"
+	],
+	tasks: [{
+		uid: "7c0a0ac6",
+		type: "item",
+		items: [{
+			id: "buildinggadgets:exchangertool",
+			tag: {
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

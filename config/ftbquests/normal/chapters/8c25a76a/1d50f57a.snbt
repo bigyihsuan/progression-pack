@@ -1,8 +1,8 @@
 {
 	title: "Melting Crucible",
 	icon: "immersivetech:metal_multiblock1 1 8",
-	x: 5.5d,
-	y: 4.5d,
+	x: 1.0d,
+	y: 6.0d,
 	text: [
 		"The Melting Crucible melts Salt into Molten Salt. You can also make Lava using Cobblestone.",
 		"",

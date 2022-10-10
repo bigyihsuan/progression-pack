@@ -1,0 +1,25 @@
+{
+	title: "Building Gadget",
+	x: -3.5d,
+	y: -1.5d,
+	text: [
+		"This tool places blocks."
+	],
+	dependencies: [
+		"25166f36"
+	],
+	tasks: [{
+		uid: "4eeb5bed",
+		type: "item",
+		items: [{
+			id: "buildinggadgets:buildingtool",
+			tag: {
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

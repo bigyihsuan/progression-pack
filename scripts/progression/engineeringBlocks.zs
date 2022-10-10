@@ -23,7 +23,7 @@ var sheetMetalConstantan = <ore:blockSheetmetalConstantan>;
 // remove existing recipes
 recipes.remove(blockRedst);
 
-recipes.addShaped("pack_redstone_engineering_block", blockRedst * 2, [
+recipes.addShaped(PACK + "redstone_engineering_block", blockRedst * 2, [
     [sheetMetalConstantan, wireCoilRedstone,  sheetMetalConstantan],
     [wireCoilRedstone,     blockCoilRedstone, wireCoilRedstone],
     [sheetMetalConstantan, wireCoilRedstone,  sheetMetalConstantan]]);
@@ -37,5 +37,5 @@ recipes.replaceAllOccurrences(<ore:ingotElectrum>, <ore:plateInvar>, blockHeavy)
 recipes.replaceAllOccurrences(<ore:ingotSteel>, <ore:blockSheetmetalSteel>, blockGener);
 recipes.replaceAllOccurrences(<ore:ingotElectrum>, <ore:blockSheetmetalElectrum>, blockGener);
 
-recipes.replaceAllOccurrences(<ore:ingotSteel>, <ore:blockSheetmetalSteel>, blockGener);
-recipes.replaceAllOccurrences(<ore:ingotCopper>, <ore:plateBronze>, blockGener);
+recipes.replaceAllOccurrences(<ore:ingotSteel>, <ore:blockSheetmetalSteel>, blockRadia);
+recipes.replaceAllOccurrences(<ore:ingotCopper>, <ore:plateBronze>, blockRadia);

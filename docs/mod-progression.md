@@ -14,12 +14,12 @@ subgraph IMMR [Immersive]
 direction LR
 IE[Immersive Engineering]
 IP[Immersive Petroleum]
+IT[Immersive Technology]
 ED[Engineer's Decor]
 end
 subgraph INDS [Industrial]
 direction LR
 IC2[IndustrialCraft2]
-FOR[Forestry]
 end
 subgraph COFH [Thermal]
 direction LR
@@ -47,14 +47,15 @@ LAE[Lazy AE2]
 end
 
 VAN -- Smeltery/Grout --> TICS
-TICS -- Manyllyn + Coke Oven --> IMMR
+TICS -- Seared Brick --> IMMR
 TC -- start --> AC
-IE --> IP --> ED
-IMMR -- Stainless Steel + Synthetic Rubber --> INDS
-INDS -- Coils, Device Casing --> COFH
+IE --> IP --> IT
+IE --> ED
+IMMR -- Stainless Steel, Synthetic Rubber, Circuit Board --> INDS
+INDS -- Coils, Device Casing, Iridium --> COFH
 COFH -- Chassis, Capacitor --> ENDR
 ENDR -- Tough Alloy --> NUCC
-NUCC -- Destabilized Clathrate,  --> MECH
+NUCC -- Enriched Redstone, Duralium --> MECH
 MECH --> END
 
 %% sidegrades

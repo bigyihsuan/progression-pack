@@ -1,8 +1,8 @@
 {
 	title: "Distiller",
 	icon: "immersivetech:metal_multiblock",
-	x: 4.5d,
-	y: 4.5d,
+	x: 0.0d,
+	y: 6.0d,
 	description: "Not the oily tower version!",
 	text: [
 		"The Distiller turns Water into Distilled Water and (at a 1% chance) Salt."

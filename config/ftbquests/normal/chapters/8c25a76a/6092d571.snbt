@@ -1,8 +1,8 @@
 {
 	title: "Distillation Tower",
 	icon: "immersivepetroleum:metal_multiblock",
-	x: 2.5d,
-	y: 4.5d,
+	x: -1.0d,
+	y: 6.0d,
 	description: "Not the wet compact version!",
 	text: [
 		""

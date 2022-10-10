@@ -26,7 +26,7 @@ var impureDust = <contenttweaker:dust_impure_stainless>;
 
 // add recipes to stainless
 recipes.addShaped(
-    "stainless_block",
+    PACK + "stainless_block",
     block,
     [
         [ingot, ingot, ingot],
@@ -35,7 +35,7 @@ recipes.addShaped(
     ]
 );
 recipes.addShaped(
-    "stainless_sheetmetal",
+    PACK + "stainless_sheetmetal",
     sheetmetal * 4,
     [
         [null, plate, null],
@@ -46,13 +46,13 @@ recipes.addShaped(
 // plate recipes
 // ic2 forge hammer (crafting)
 recipes.addShapeless(
-    "forge_hammer_stainless_plate",
+    PACK + "forge_hammer_stainless_plate",
     plate,
     [<ic2:forge_hammer>, ingot, ingot]
 );
 // ie engineer's hammer (crafting)
 recipes.addShapeless(
-    "engineers_hammer_stainless_plate",
+    PACK + "engineers_hammer_stainless_plate",
     plate,
     [<immersiveengineering:tool>, ingot, ingot]
 );

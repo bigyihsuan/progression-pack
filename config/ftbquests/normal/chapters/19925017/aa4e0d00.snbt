@@ -1,12 +1,17 @@
 {
+	title: "Gate 00: Seared Bricks",
 	x: 0.0d,
-	y: -5.0d,
+	y: -3.5d,
+	text: [
+		""
+	],
 	dependencies: [
-		"3623b04b"
+		"26018a36"
 	],
 	tasks: [{
-		uid: "5450db46",
+		uid: "4c0ddbd7",
 		type: "item",
+		disable_toast: true,
 		items: [{
 			item: "tconstruct:seared 1 3"
 		}]

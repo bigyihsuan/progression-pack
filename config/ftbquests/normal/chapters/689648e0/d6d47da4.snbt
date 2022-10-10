@@ -1,0 +1,29 @@
+{
+	title: "Copy-Paste Gadget",
+	x: -3.5d,
+	y: 0.5d,
+	text: [
+		"This gadget copies and pastes groups of blocks.",
+		"",
+		"It does not support tile entities.",
+		"If the Copy-Paste Gadget doesn't have enough materials to fully paste,",
+		"it uses construction paste if you have it in your inventory.",
+		"",
+		"Shift-right click the gadget on an inventory to set where it will get its items from."
+	],
+	dependencies: [
+		"25166f36"
+	],
+	tasks: [{
+		uid: "50d01a97",
+		type: "item",
+		items: [{
+			id: "buildinggadgets:copypastetool",
+			tag: {
+				mode: "Copy"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,56 @@
+{
+	title: "Gate 01: Immersive Engineering",
+	icon: "immersiveengineering:tool",
+	x: 0.0d,
+	y: -2.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"3705746e",
+		"ee83ae2e",
+		"aa4e0d00",
+		"c19ec769"
+	],
+	tasks: [{
+		uid: "089e0d73",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "contenttweaker:ingot_stainless"
+		}]
+	},
+	{
+		uid: "8930378b",
+		type: "fluid",
+		disable_toast: true,
+		fluid: "rubber"
+	},
+	{
+		uid: "bc99b7cd",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "itemRubber",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any itemRubber"
+				}
+			}
+		}]
+	},
+	{
+		uid: "4d3d0645",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "immersiveengineering:material 1 27"
+		}]
+	}]
+}

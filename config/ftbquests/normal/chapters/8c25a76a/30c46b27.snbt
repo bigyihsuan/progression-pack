@@ -1,0 +1,20 @@
+{
+	title: "Welcome to Immersive Engineering!",
+	x: -5.0d,
+	y: -1.0d,
+	shape: "gear",
+	description: "It's Immersive! It's Engineering!",
+	text: [
+		"Ah, Immersive Engineering: I remember when it first came out and we were amazed at the multiblocks. I think we still do.",
+		"",
+		"Immersive Engineering and its addons are the first mods you will progress through in this pack. Get your iron supplies ready."
+	],
+	dependencies: [
+		"aa4e0d00"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "83340ea2",
+		type: "checkmark"
+	}]
+}

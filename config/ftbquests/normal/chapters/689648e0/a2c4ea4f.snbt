@@ -1,0 +1,51 @@
+{
+	title: "Construction Paste",
+	icon: "buildinggadgets:constructionpaste",
+	x: -4.5d,
+	y: 0.5d,
+	text: [
+		"Construction paste is used by the Copy-Paste Gadget to create blocks out of thin air if you don't have the blocks in your inventory.",
+		"",
+		"However, this is only visual: construction paste will only look like the block it's mimicking, and you cannot make multiblocks using pasted blocks."
+	],
+	dependencies: [
+		"d6d47da4"
+	],
+	tasks: [{
+		uid: "73c987bb",
+		type: "item",
+		items: [{
+			item: "buildinggadgets:constructionpaste"
+		}]
+	},
+	{
+		uid: "1fb27019",
+		type: "item",
+		items: [{
+			item: "buildinggadgets:construction_chunk_dense"
+		}]
+	},
+	{
+		uid: "696d4d94",
+		type: "item",
+		items: [{
+			item: "buildinggadgets:constructionblock_dense"
+		}]
+	},
+	{
+		uid: "2608d074",
+		type: "item",
+		items: [{
+			item: "buildinggadgets:constructionblockpowder"
+		}]
+	},
+	{
+		uid: "755b2587",
+		type: "item",
+		items: [{
+			item: "buildinggadgets:constructionpastecontainer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

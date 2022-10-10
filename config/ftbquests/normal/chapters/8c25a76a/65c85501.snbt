@@ -1,8 +1,8 @@
 {
 	title: "Steel",
 	icon: "thermalfoundation:material 1 160",
-	x: -1.5d,
-	y: -0.5d,
+	x: -3.5d,
+	y: 2.5d,
 	text: [
 		""
 	],

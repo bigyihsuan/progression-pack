@@ -1,7 +1,7 @@
 {
 	title: "Stainless Steel",
-	x: -3.0d,
-	y: 7.0d,
+	x: -7.0d,
+	y: 8.0d,
 	shape: "gear",
 	description: "Wow, it's shiny!",
 	text: [

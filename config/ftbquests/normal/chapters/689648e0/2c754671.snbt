@@ -1,0 +1,43 @@
+{
+	title: "Template Manager",
+	icon: {
+		id: "buildinggadgets:template",
+		tag: {
+			UUID: "65777f20-c5d4-4dad-b074-2f18f78152d9"
+		}
+	},
+	x: -5.5d,
+	y: 0.5d,
+	text: [
+		"The Template Manager lets you load/save/copy/paste blueprints into your Copy-Paste Gadget, blueprints, or your computer's clipboard.",
+		"Click the question mark in the GUI for more information."
+	],
+	dependencies: [
+		"a2c4ea4f"
+	],
+	tasks: [{
+		uid: "2269454a",
+		type: "item",
+		items: [{
+			item: "buildinggadgets:templatemanager"
+		}]
+	},
+	{
+		uid: "fec9a770",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "paper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any paper"
+				}
+			}
+		}]
+	}]
+}

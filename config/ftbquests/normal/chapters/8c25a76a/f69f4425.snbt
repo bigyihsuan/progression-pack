@@ -1,6 +1,6 @@
 {
-	x: 3.0d,
-	y: 3.0d,
+	x: -1.5d,
+	y: 5.0d,
 	description: "Black Gold",
 	text: [
 		"immersive Petroleum is an addon for Immersive Engineering that adds oil and oil processing.",
