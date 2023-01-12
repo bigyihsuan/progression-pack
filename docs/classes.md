@@ -8,9 +8,9 @@ ma([Machine])
 
 it --> ma --> fl
 
-classDef item fill:#660;
-classDef fluid fill:#009;
-classDef machine fill:#666;
+classDef item fill:#660,color:white;
+classDef fluid fill:#009,color:white;
+classDef machine fill:#666,color:white;
 
 class it item
 class fl fluid

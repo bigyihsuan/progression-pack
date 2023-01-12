@@ -1,7 +1,0 @@
-{
-	title: "00: Gates",
-	icon: "contenttweaker:ingot_stainless",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

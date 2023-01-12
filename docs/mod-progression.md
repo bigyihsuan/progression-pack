@@ -20,6 +20,8 @@ end
 subgraph INDS [Industrial]
 direction LR
 IC2[IndustrialCraft2]
+BC[Buildcraft]
+FOR[Forestry?]
 end
 subgraph COFH [Thermal]
 direction LR
@@ -46,7 +48,7 @@ AE2[Applied Energistics 2]
 LAE[Lazy AE2]
 end
 
-VAN -- Smeltery/Grout --> TICS
+VAN --> TICS
 TICS -- Seared Brick --> IMMR
 TC -- start --> AC
 IE --> IP --> IT
@@ -59,9 +61,12 @@ NUCC -- Enriched Redstone, Duralium --> MECH
 MECH --> END
 
 %% sidegrades
-TC -- Bronze --> TCM
-TCM -- Pig Iron --> TIO
-MEK --Fusion Reactor stuff--> ENV
+TC --> TCM
+TCM --> TIO
+IC2 --> BC & FOR
+TE --> IF
+MEK -- Fusion Reactor stuff--> ENV
 IF -- a ton of wither skulls --> DML
+NUC --> DML
 AE2 --Singularities-->LAE
 ```

@@ -1,0 +1,9 @@
+{
+	x: -2.5d,
+	y: 2.75d,
+	tasks: [{
+		uid: "635a0d80",
+		type: "checkmark",
+		title: "Buildcraft"
+	}]
+}

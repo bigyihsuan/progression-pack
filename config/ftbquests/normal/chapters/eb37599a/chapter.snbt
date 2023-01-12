@@ -1,0 +1,7 @@
+{
+	title: "Logistics",
+	icon: "logisticspipes:module_item_sink",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

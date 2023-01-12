@@ -40,4 +40,5 @@ recipes.addShaped(
         [stainlessPlate, stainlessPlate, stainlessPlate],
     ]
 );
-
+// Advanced Machine Casing
+// Keep as the same

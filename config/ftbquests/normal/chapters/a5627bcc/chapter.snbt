@@ -2,6 +2,6 @@
 	title: "03: Thermal Expansion",
 	icon: "thermalfoundation:wrench",
 	always_invisible: false,
-	group: 0,
+	group: -1097615598,
 	default_quest_shape: ""
 }

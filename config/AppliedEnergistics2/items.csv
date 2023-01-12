@@ -47,7 +47,7 @@ minecraft:lapis_block, Lapis Lazuli Block
 minecraft:dispenser, Dispenser
 minecraft:sandstone:0, Sandstone
 minecraft:sandstone:1, Chiseled Sandstone
-minecraft:sandstone:2, Smooth Sandstone
+minecraft:sandstone:2, Cut Sandstone
 minecraft:noteblock, Note Block
 minecraft:golden_rail, Powered Rail
 minecraft:detector_rail, Detector Rail
@@ -283,7 +283,7 @@ minecraft:double_plant:4, Rose Bush
 minecraft:double_plant:5, Peony
 minecraft:red_sandstone:0, Red Sandstone
 minecraft:red_sandstone:1, Chiseled Red Sandstone
-minecraft:red_sandstone:2, Smooth Red Sandstone
+minecraft:red_sandstone:2, Cut Red Sandstone
 minecraft:red_sandstone_stairs, Red Sandstone Stairs
 minecraft:stone_slab2:0, Red Sandstone Slab
 minecraft:spruce_fence_gate, Spruce Fence Gate
@@ -2243,6 +2243,7 @@ ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
 ic2:cable:0, Copper Cable
 ic2:cable:0, Insulated Copper Cable
 ic2:cable:1, Glass Fibre Cable
@@ -3141,7 +3142,7 @@ thermaldynamics:cover:0, Lapis Lazuli Ore Cover
 thermaldynamics:cover:0, Lapis Lazuli Block Cover
 thermaldynamics:cover:0, Sandstone Cover
 thermaldynamics:cover:0, Chiseled Sandstone Cover
-thermaldynamics:cover:0, Smooth Sandstone Cover
+thermaldynamics:cover:0, Cut Sandstone Cover
 thermaldynamics:cover:0, White Wool Cover
 thermaldynamics:cover:0, Orange Wool Cover
 thermaldynamics:cover:0, Magenta Wool Cover
@@ -3292,7 +3293,7 @@ thermaldynamics:cover:0, Block of Coal Cover
 thermaldynamics:cover:0, Packed Ice Cover
 thermaldynamics:cover:0, Red Sandstone Cover
 thermaldynamics:cover:0, Chiseled Red Sandstone Cover
-thermaldynamics:cover:0, Smooth Red Sandstone Cover
+thermaldynamics:cover:0, Cut Red Sandstone Cover
 thermaldynamics:cover:0, Red Sandstone Stairs Cover
 thermaldynamics:cover:0, Red Sandstone Slab Cover
 thermaldynamics:cover:0, Purpur Block Cover
@@ -3545,101 +3546,12 @@ thermaldynamics:cover:0, Tritium Lamp Cover
 thermaldynamics:cover:0, Fluxed Electrum Block Cover
 thermaldynamics:cover:0, Flux Crystal Block Cover
 simplyjetpacks:itemjetpack:0, Creative Jetpack
-simplyjetpacks:itemjetpack:1, Iron Jetpack
-simplyjetpacks:itemjetpack:2, Gold Jetpack
-simplyjetpacks:itemjetpack:3, Diamond Jetpack
-simplyjetpacks:itemjetpack:4, Iron Jetpack (Armored)
-simplyjetpacks:itemjetpack:5, Gold Jetpack (Armored)
-simplyjetpacks:itemjetpack:6, Diamond Jetpack (Armored)
-simplyjetpacks:itemjetpack:7, Conductive Iron Jetpack
-simplyjetpacks:itemjetpack:8, Electrical Steel Jetpack
-simplyjetpacks:itemjetpack:9, Energetic Jetpack
-simplyjetpacks:itemjetpack:10, Vibrant Jetpack
-simplyjetpacks:itemjetpack:11, Conductive Iron Jetpack (Armored)
-simplyjetpacks:itemjetpack:12, Electrical Steel Jetpack (Armored)
-simplyjetpacks:itemjetpack:13, Energetic Jetpack (Armored)
-simplyjetpacks:itemjetpack:14, Vibrant Jetpack (Armored)
-simplyjetpacks:itemjetpack:15, Dark Soularium JetPlate
-simplyjetpacks:itemjetpack:16, Leadstone Jetpack
-simplyjetpacks:itemjetpack:17, Hardened Jetpack
-simplyjetpacks:itemjetpack:18, Reinforced Jetpack
-simplyjetpacks:itemjetpack:19, Resonant Jetpack
-simplyjetpacks:itemjetpack:20, Leadstone Jetpack (Armored)
-simplyjetpacks:itemjetpack:21, Hardened Jetpack (Armored)
-simplyjetpacks:itemjetpack:22, Reinforced Jetpack (Armored)
-simplyjetpacks:itemjetpack:23, Resonant Jetpack (Armored)
-simplyjetpacks:itemjetpack:24, Flux-Infused JetPlate
-simplyjetpacks:itemjetpack:26, Basic Jetpack
-simplyjetpacks:itemjetpack:27, Advanced Jetpack
-simplyjetpacks:itemjetpack:28, Elite Jetpack
-simplyjetpacks:itemjetpack:29, Ultimate Jetpack
-simplyjetpacks:itemjetpack:30, Basic Jetpack (Armored)
-simplyjetpacks:itemjetpack:31, Advanced Jetpack (Armored)
-simplyjetpacks:itemjetpack:32, Elite Jetpack (Armored)
-simplyjetpacks:itemjetpack:33, Ultimate Jetpack (Armored)
-simplyjetpacks:itemjetpack:34, Low Voltage Jetpack
-simplyjetpacks:itemjetpack:35, Medium Voltage Jetpack
-simplyjetpacks:itemjetpack:36, High Voltage Jetpack
-simplyjetpacks:itemjetpack:37, Low Voltage Jetpack (Armored)
-simplyjetpacks:itemjetpack:38, Medium Voltage Jetpack (Armored)
-simplyjetpacks:itemjetpack:39, High Voltage Jetpack (Armored)
 simplyjetpacks:itemfluxpack:0, Creative Fluxpack
-simplyjetpacks:itemfluxpack:1, Basic Capacitor Pack
-simplyjetpacks:itemfluxpack:2, Double-Layer Capacitor Pack
-simplyjetpacks:itemfluxpack:3, Octadic Capacitor Pack
-simplyjetpacks:itemfluxpack:4, Basic Capacitor Pack (Armored)
-simplyjetpacks:itemfluxpack:5, Double-Layer Capacitor Pack (Armored)
-simplyjetpacks:itemfluxpack:6, Octadic Capacitor Pack (Armored)
-simplyjetpacks:itemfluxpack:7, Leadstone Fluxpack
-simplyjetpacks:itemfluxpack:8, Hardened Fluxpack
-simplyjetpacks:itemfluxpack:9, Reinforced Fluxpack
-simplyjetpacks:itemfluxpack:10, Resonant Fluxpack
-simplyjetpacks:itemfluxpack:11, Leadstone Fluxpack (Armored)
-simplyjetpacks:itemfluxpack:12, Hardened Fluxpack (Armored)
-simplyjetpacks:itemfluxpack:13, Reinforced Fluxpack (Armored)
-simplyjetpacks:itemfluxpack:14, Resonant Fluxpack (Armored)
 simplyjetpacks:metaitem:0, Particle Customizer (Default)
 simplyjetpacks:metaitem:1, Particle Customizer (None)
 simplyjetpacks:metaitem:2, Particle Customizer (Smoke)
 simplyjetpacks:metaitem:3, Particle Customizer (Rainbow)
 simplyjetpacks:metaitem:4, Leather Strap
-simplyjetpacks:metaitemmods:0, Iron Thruster
-simplyjetpacks:metaitemmods:1, Gold Thruster
-simplyjetpacks:metaitemmods:2, Diamond Thruster
-simplyjetpacks:metaitemmods:3, Silicon Armor Plating
-simplyjetpacks:metaitemmods:4, Conductive Iron Armor Plating
-simplyjetpacks:metaitemmods:5, Electrical Steel Armor Plating
-simplyjetpacks:metaitemmods:6, Dark Steel Armor Plating
-simplyjetpacks:metaitemmods:7, Conductive Iron Thruster
-simplyjetpacks:metaitemmods:8, Electrical Steel Thruster
-simplyjetpacks:metaitemmods:9, Energetic Thruster
-simplyjetpacks:metaitemmods:10, Vibrant Thruster
-simplyjetpacks:metaitemmods:11, Dark Soularium Thruster
-simplyjetpacks:metaitemmods:12, Dark Soularium Ingot
-simplyjetpacks:metaitemmods:13, Reinforced Glider Wing
-simplyjetpacks:metaitemmods:14, Flight Control Unit (Empty)
-simplyjetpacks:metaitemmods:15, Flight Control Unit
-simplyjetpacks:metaitemmods:31, Basic Armor Plating
-simplyjetpacks:metaitemmods:32, Advanced Armor Plating
-simplyjetpacks:metaitemmods:33, Elite Armor Plating
-simplyjetpacks:metaitemmods:34, Ultimate Armor Plating
-simplyjetpacks:metaitemmods:35, Basic Thruster
-simplyjetpacks:metaitemmods:36, Advanced Thruster
-simplyjetpacks:metaitemmods:37, Elite Thruster
-simplyjetpacks:metaitemmods:38, Ultimate Thruster
-simplyjetpacks:metaitemmods:39, Tough Fabric Padding
-simplyjetpacks:metaitemmods:40, Iron Armor Plating
-simplyjetpacks:metaitemmods:41, Steel Armor Plating
-simplyjetpacks:metaitemmods:42, Low Voltage Thruster
-simplyjetpacks:metaitemmods:43, Medium Voltage Thruster
-simplyjetpacks:metaitemmods:44, High Voltage Thruster
-simplyjetpacks:metaitemmods:24, Fluxed Thruster
-simplyjetpacks:metaitemmods:25, Flux-Infused Chestplate Assembly
-simplyjetpacks:metaitemmods:26, Fluxed Armor Plating
-simplyjetpacks:metaitemmods:27, Glowstone Elevation Unit (Empty)
-simplyjetpacks:metaitemmods:28, Glowstone Elevation Unit
-simplyjetpacks:metaitemmods:29, Cryotheum Coolant Unit (Empty)
-simplyjetpacks:metaitemmods:30, Cryotheum Coolant Unit
 simplyjetpacks:pilot_goggles, Pilot Goggles
 plustic:alumitenugget, Alumite Nugget
 plustic:alumiteingot, Alumite Ingot
@@ -4192,7 +4104,7 @@ appliedenergistics2:facade:0, Cable Facade - Lapis Lazuli Ore
 appliedenergistics2:facade:0, Cable Facade - Lapis Lazuli Block
 appliedenergistics2:facade:0, Cable Facade - Sandstone
 appliedenergistics2:facade:0, Cable Facade - Chiseled Sandstone
-appliedenergistics2:facade:0, Cable Facade - Smooth Sandstone
+appliedenergistics2:facade:0, Cable Facade - Cut Sandstone
 appliedenergistics2:facade:0, Cable Facade - White Wool
 appliedenergistics2:facade:0, Cable Facade - Orange Wool
 appliedenergistics2:facade:0, Cable Facade - Magenta Wool
@@ -4299,7 +4211,7 @@ appliedenergistics2:facade:0, Cable Facade - Block of Coal
 appliedenergistics2:facade:0, Cable Facade - Packed Ice
 appliedenergistics2:facade:0, Cable Facade - Red Sandstone
 appliedenergistics2:facade:0, Cable Facade - Chiseled Red Sandstone
-appliedenergistics2:facade:0, Cable Facade - Smooth Red Sandstone
+appliedenergistics2:facade:0, Cable Facade - Cut Red Sandstone
 appliedenergistics2:facade:0, Cable Facade - Purpur Block
 appliedenergistics2:facade:0, Cable Facade - Purpur Pillar
 appliedenergistics2:facade:0, Cable Facade - End Stone Bricks
@@ -4784,6 +4696,37 @@ appliedenergistics2:facade:0, Cable Facade - Light Engineering Block
 appliedenergistics2:facade:0, Cable Facade - Heavy Engineering Block
 appliedenergistics2:facade:0, Cable Facade - Generator Block
 appliedenergistics2:facade:0, Cable Facade - Radiator Block
+appliedenergistics2:facade:0, Cable Facade - Loom
+appliedenergistics2:facade:0, Cable Facade - Fletching Table
+appliedenergistics2:facade:0, Cable Facade - Smithing Table
+appliedenergistics2:facade:0, Cable Facade - Cartography Table
+appliedenergistics2:facade:0, Cable Facade - Honeycomb Block
+appliedenergistics2:facade:0, Cable Facade - Stripped Acacia Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Jungle Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Birch Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Oak Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Spruce Log
+appliedenergistics2:facade:0, Cable Facade - Stripped Dark Oak Log
+appliedenergistics2:facade:0, Cable Facade - Smooth Stone
+appliedenergistics2:facade:0, Cable Facade - Smooth Sandstone
+appliedenergistics2:facade:0, Cable Facade - Smooth Quartz
+appliedenergistics2:facade:0, Cable Facade - Smooth Red Sandstone
+appliedenergistics2:facade:0, Cable Facade - Blue Ice
+appliedenergistics2:facade:0, Cable Facade - Stripped Acacia Wood
+appliedenergistics2:facade:0, Cable Facade - Stripped Jungle Wood
+appliedenergistics2:facade:0, Cable Facade - Stripped Birch Wood
+appliedenergistics2:facade:0, Cable Facade - Stripped Oak Wood
+appliedenergistics2:facade:0, Cable Facade - Stripped Spruce Wood
+appliedenergistics2:facade:0, Cable Facade - Stripped Dark Oak Wood
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood
+appliedenergistics2:facade:0, Cable Facade - Birch Wood
+appliedenergistics2:facade:0, Cable Facade - Oak Wood
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood
+appliedenergistics2:facade:0, Cable Facade - Soul Soil
+appliedenergistics2:facade:0, Cable Facade - Netherite Block
+appliedenergistics2:facade:0, Cable Facade - Ancient Debris
 appliedenergistics2:facade:0, Cable Facade - Fluix Coil Block
 appliedenergistics2:facade:0, Cable Facade - Dense Fluix Coil Block
 appliedenergistics2:facade:0, Cable Facade - Quartz Fiber Coil Block
@@ -4813,6 +4756,7 @@ appliedenergistics2:facade:0, Cable Facade - Template (Decoration)
 appliedenergistics2:facade:0, Cable Facade - tile.decorated.paper.name
 appliedenergistics2:facade:0, Cable Facade - tile.decorated.leather.name
 appliedenergistics2:facade:0, Cable Facade - Laser (Decoration)
+appliedenergistics2:facade:0, Cable Facade - Block of Ancient Debris
 appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
 appliedenergistics2:facade:0, Cable Facade - Block of Charged Certus Quartz
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
@@ -6383,44 +6327,44 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Pipe Piece Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Battery Cell Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Battery Cell Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Pipe Piece Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Armor Trim Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -8147,6 +8091,24 @@ tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:5, Part Chest
 tconstruct:tooltables:3, Tool Station
 tconstruct:toolforge:0, Tool Forge
@@ -8274,88 +8236,88 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Pipe Piece Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Fletching Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Sword Blade Cast
 tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Battery Cell Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Laser Medium Cast
+tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Battery Cell Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Pipe Piece Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Fletching Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Laser Medium Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Armor Trim Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Pipe Piece Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Fletching Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Battery Cell Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Laser Medium Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Battery Cell Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Pipe Piece Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Fletching Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Laser Medium Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -9974,6 +9936,106 @@ ftbquests:reward_collector, Reward Collector
 ftbquests:book, Quest Book
 ftbquests:lootcrate, Loot Crate
 ftbquests:custom_icon, Custom Icon
+futuremc:dye:0, White Dye
+futuremc:dye:1, Blue Dye
+futuremc:dye:2, Brown Dye
+futuremc:dye:3, Black Dye
+futuremc:trident, Trident
+futuremc:banner_pattern:0, Banner Pattern
+futuremc:banner_pattern:1, Banner Pattern
+futuremc:banner_pattern:2, Banner Pattern
+futuremc:banner_pattern:3, Banner Pattern
+futuremc:banner_pattern:4, Banner Pattern
+futuremc:banner_pattern:5, Banner Pattern
+futuremc:honeycomb, Honeycomb
+futuremc:honey_bottle, Honey Bottle
+futuremc:sweet_berries, Sweet Berries
+futuremc:suspicious_stew, Suspicious Stew
+futuremc:bamboo, Bamboo
+futuremc:pufferfish_bucket, Pufferfish Bucket
+futuremc:salmon_bucket, Salmon Bucket
+futuremc:cod_bucket, Cod Bucket
+futuremc:tropical_fish_bucket, Tropical Fish Bucket
+futuremc:nautilus_shell, Nautilus Shell
+futuremc:lantern, Lantern
+futuremc:stonecutter, Stonecutter
+futuremc:barrel, Barrel
+futuremc:smoker, Smoker
+futuremc:blast_furnace, Blast Furnace
+futuremc:loom, Loom
+futuremc:fletching_table, Fletching Table
+futuremc:smithing_table, Smithing Table
+futuremc:cartography_table, Cartography Table
+futuremc:grindstone, Grindstone
+futuremc:composter, Composter
+futuremc:bell, Bell
+futuremc:honey_block, Honey Block
+futuremc:honeycomb_block, Honeycomb Block
+futuremc:lily_of_the_valley, Lily of the Valley
+futuremc:cornflower, Cornflower
+futuremc:wither_rose, Wither Rose
+futuremc:campfire, Campfire
+futuremc:scaffolding, Scaffolding
+futuremc:bee_nest, Bee Nest
+futuremc:beehive, Bee Hive
+futuremc:stripped_acacia_log, Stripped Acacia Log
+futuremc:stripped_jungle_log, Stripped Jungle Log
+futuremc:stripped_birch_log, Stripped Birch Log
+futuremc:stripped_oak_log, Stripped Oak Log
+futuremc:stripped_spruce_log, Stripped Spruce Log
+futuremc:stripped_dark_oak_log, Stripped Dark Oak Log
+futuremc:brick_wall, Brick Wall
+futuremc:granite_wall, Granite Wall
+futuremc:andesite_wall, Andesite Wall
+futuremc:diorite_wall, Diorite Wall
+futuremc:sandstone_wall, Sandstone Wall
+futuremc:red_sandstone_wall, Red Sandstone Wall
+futuremc:stone_brick_wall, Stone Brick Wall
+futuremc:mossy_stone_brick_wall, Mossy Stone Brick Wall
+futuremc:nether_brick_wall, Nether Brick Wall
+futuremc:red_nether_brick_wall, Red Nether Brick Wall
+futuremc:end_stone_brick_wall, End Stone Brick Wall
+futuremc:prismarine_wall, Prismarine Wall
+futuremc:smooth_stone, Smooth Stone
+futuremc:smooth_sandstone, Smooth Sandstone
+futuremc:smooth_quartz, Smooth Quartz
+futuremc:smooth_red_sandstone, Smooth Red Sandstone
+futuremc:blue_ice, Blue Ice
+futuremc:stripped_acacia_wood, Stripped Acacia Wood
+futuremc:stripped_jungle_wood, Stripped Jungle Wood
+futuremc:stripped_birch_wood, Stripped Birch Wood
+futuremc:stripped_oak_wood, Stripped Oak Wood
+futuremc:stripped_spruce_wood, Stripped Spruce Wood
+futuremc:stripped_dark_oak_wood, Stripped Dark Oak Wood
+futuremc:acacia_wood, Acacia Wood
+futuremc:jungle_wood, Jungle Wood
+futuremc:birch_wood, Birch Wood
+futuremc:oak_wood, Oak Wood
+futuremc:spruce_wood, Spruce Wood
+futuremc:dark_oak_wood, Dark Oak Wood
+futuremc:acacia_trapdoor, Acacia Trapdoor
+futuremc:jungle_trapdoor, Jungle Trapdoor
+futuremc:birch_trapdoor, Birch Trapdoor
+futuremc:spruce_trapdoor, Spruce Trapdoor
+futuremc:dark_oak_trapdoor, Dark Oak Trapdoor
+futuremc:soul_fire_lantern, Soul Lantern
+futuremc:soul_fire_torch, Soul Torch
+futuremc:soul_soil, Soul Soil
+futuremc:netherite_ingot, Netherite Ingot
+futuremc:netherite_scrap, Netherite Scrap
+futuremc:netherite_axe, Netherite Axe
+futuremc:netherite_hoe, Netherite Hoe
+futuremc:netherite_pickaxe, Netherite Pickaxe
+futuremc:netherite_shovel, Netherite Shovel
+futuremc:netherite_sword, Netherite Sword
+futuremc:netherite_helmet, Netherite Helmet
+futuremc:netherite_chestplate, Netherite Chestplate
+futuremc:netherite_leggings, Netherite Leggings
+futuremc:netherite_boots, Netherite Boots
+futuremc:chain, Chain
+futuremc:netherite_block, Netherite Block
+futuremc:ancient_debris, Ancient Debris
+futuremc:record_pigstep, Music Disc
 immersivecables:coil_block:0, Fluix Coil Block
 immersivecables:coil_block:1, Dense Fluix Coil Block
 immersivecables:coil_block:2, Quartz Fiber Coil Block
@@ -10024,6 +10086,24 @@ teslacorelib:machine_case, Machine Case
 teslacorelib:speed_tier1, Speed Upgrade I
 teslacorelib:speed_tier2, Speed Upgrade II
 teslacorelib:wrench, Tesla Wrench
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -10144,24 +10224,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 logisticspipes:module_item_sink, ItemSink Module
 logisticspipes:module_passive_supplier, Passive Supplier Module
 logisticspipes:module_extractor, Extractor Module
@@ -10628,12 +10690,12 @@ tcomplement:scorched_stairs_brick_small:0, Small Scorched Bricks Stairs
 tcomplement:scorched_stairs_road:0, Scorched Road Stairs
 tcomplement:scorched_stairs_tile:0, Scorched Tile Stairs
 tcomplement:scorched_stairs_creeper:0, Scorched Creeperface Stairs
-torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
+torchmaster:frozen_pearl, Frozen Pearl
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
 wct:magnet_card, Magnet Card
@@ -11092,12 +11154,15 @@ threng:material:13, Speculation Core (64x)
 threng:material:14, Speculative Processor
 plustic:centrifuge:0, Centrifuge Tank
 plustic:centrifuge:1, Centrifuge Core
+jaopca:block_blockancientdebris, Block of %s
 jaopca:block_blockcertusquartz, Block of %s
 jaopca:block_blockchargedcertusquartz, Block of %s
+jaopca:item_dustancientdebris, %s Dust
 jaopca:item_dustardite, %s Dust
 jaopca:item_dustcobalt, %s Dust
 jaopca:item_dustchargedcertusquartz, %s Dust
 jaopca:item_dustemerald, %s Dust
+jaopca:item_nuggetancientdebris, %s Nugget
 jaopca:item_nuggetboron, %s Nugget
 jaopca:item_nuggetlithium, %s Nugget
 jaopca:item_nuggetmagnesium, %s Nugget
@@ -11107,6 +11172,7 @@ jaopca:item_nuggetchargedcertusquartz, %s Nugget
 jaopca:item_nuggetcoal, %s Nugget
 jaopca:item_nuggetlapis, %s Nugget
 jaopca:item_nuggetquartz, %s Nugget
+jaopca:item_coinancientdebris, %s Coin
 jaopca:item_coinardite, %s Coin
 jaopca:item_coinboron, %s Coin
 jaopca:item_coincobalt, %s Coin
@@ -11115,6 +11181,7 @@ jaopca:item_coinmagnesium, %s Coin
 jaopca:item_coinosmium, %s Coin
 jaopca:item_cointhorium, %s Coin
 jaopca:item_coinuranium, %s Coin
+jaopca:item_gearancientdebris, %s Gear
 jaopca:item_gearardite, %s Gear
 jaopca:item_gearboron, %s Gear
 jaopca:item_gearcobalt, %s Gear
@@ -11128,6 +11195,7 @@ jaopca:item_gearchargedcertusquartz, %s Gear
 jaopca:item_gearcoal, %s Gear
 jaopca:item_gearlapis, %s Gear
 jaopca:item_gearquartz, %s Gear
+jaopca:item_plateancientdebris, %s Plate
 jaopca:item_plateardite, %s Plate
 jaopca:item_plateboron, %s Plate
 jaopca:item_platecobalt, %s Plate
@@ -11141,6 +11209,7 @@ jaopca:item_platecoal, %s Plate
 jaopca:item_platediamond, %s Plate
 jaopca:item_plateemerald, %s Plate
 jaopca:item_platequartz, %s Plate
+jaopca:item_stickancientdebris, %s Rod
 jaopca:item_stickardite, %s Rod
 jaopca:item_stickboron, %s Rod
 jaopca:item_stickcobalt, %s Rod
@@ -11160,6 +11229,7 @@ jaopca:item_stickemerald, %s Rod
 jaopca:item_sticklapis, %s Rod
 jaopca:item_stickquartz, %s Rod
 jaopca:item_dusttinyaluminium, Tiny Pile of %s Dust
+jaopca:item_dusttinyancientdebris, Tiny Pile of %s Dust
 jaopca:item_dusttinyardite, Tiny Pile of %s Dust
 jaopca:item_dusttinyboron, Tiny Pile of %s Dust
 jaopca:item_dusttinycobalt, Tiny Pile of %s Dust
@@ -11179,6 +11249,7 @@ jaopca:item_dusttinyemerald, Tiny Pile of %s Dust
 jaopca:item_dusttinyquartz, Tiny Pile of %s Dust
 jaopca:item_dusttinyredstone, Tiny Pile of %s Dust
 jaopca:item_dustsmallaluminium, Small Pile of %s Dust
+jaopca:item_dustsmallancientdebris, Small Pile of %s Dust
 jaopca:item_dustsmallardite, Small Pile of %s Dust
 jaopca:item_dustsmallboron, Small Pile of %s Dust
 jaopca:item_dustsmallcobalt, Small Pile of %s Dust
@@ -11206,6 +11277,7 @@ jaopca:item_dustsmalllapis, Small Pile of %s Dust
 jaopca:item_dustsmallquartz, Small Pile of %s Dust
 jaopca:item_dustsmallredstone, Small Pile of %s Dust
 jaopca:item_platedensealuminium, Dense %s Plate
+jaopca:item_platedenseancientdebris, Dense %s Plate
 jaopca:item_platedenseardite, Dense %s Plate
 jaopca:item_platedenseboron, Dense %s Plate
 jaopca:item_platedensecobalt, Dense %s Plate
@@ -11226,6 +11298,7 @@ jaopca:item_platedensediamond, Dense %s Plate
 jaopca:item_platedenseemerald, Dense %s Plate
 jaopca:item_platedensequartz, Dense %s Plate
 jaopca:item_dustdirtyaluminium, Dirty %s Dust
+jaopca:item_dustdirtyancientdebris, Dirty %s Dust
 jaopca:item_dustdirtyardite, Dirty %s Dust
 jaopca:item_dustdirtyboron, Dirty %s Dust
 jaopca:item_dustdirtycobalt, Dirty %s Dust
@@ -11238,6 +11311,7 @@ jaopca:item_dustdirtyplatinum, Dirty %s Dust
 jaopca:item_dustdirtythorium, Dirty %s Dust
 jaopca:item_dustdirtyuranium, Dirty %s Dust
 jaopca:item_clumpaluminium, %s Clump
+jaopca:item_clumpancientdebris, %s Clump
 jaopca:item_clumpardite, %s Clump
 jaopca:item_clumpboron, %s Clump
 jaopca:item_clumpcobalt, %s Clump
@@ -11250,6 +11324,7 @@ jaopca:item_clumpplatinum, %s Clump
 jaopca:item_clumpthorium, %s Clump
 jaopca:item_clumpuranium, %s Clump
 jaopca:item_shardaluminium, %s Shard
+jaopca:item_shardancientdebris, %s Shard
 jaopca:item_shardardite, %s Shard
 jaopca:item_shardboron, %s Shard
 jaopca:item_shardcobalt, %s Shard
@@ -11262,6 +11337,7 @@ jaopca:item_shardplatinum, %s Shard
 jaopca:item_shardthorium, %s Shard
 jaopca:item_sharduranium, %s Shard
 jaopca:item_crystalaluminium, %s Crystal
+jaopca:item_crystalancientdebris, %s Crystal
 jaopca:item_crystalardite, %s Crystal
 jaopca:item_crystalboron, %s Crystal
 jaopca:item_crystalcobalt, %s Crystal
@@ -11274,6 +11350,7 @@ jaopca:item_crystalplatinum, %s Crystal
 jaopca:item_crystalthorium, %s Crystal
 jaopca:item_crystaluranium, %s Crystal
 jaopca:item_crushedaluminium, Crushed %s Ore
+jaopca:item_crushedancientdebris, Crushed %s Ore
 jaopca:item_crushedardite, Crushed %s Ore
 jaopca:item_crushedboron, Crushed %s Ore
 jaopca:item_crushedcobalt, Crushed %s Ore
@@ -11286,6 +11363,7 @@ jaopca:item_crushedosmium, Crushed %s Ore
 jaopca:item_crushedplatinum, Crushed %s Ore
 jaopca:item_crushedthorium, Crushed %s Ore
 jaopca:item_crushedpurifiedaluminium, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedancientdebris, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedardite, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedboron, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedcobalt, Purified Crushed %s Ore
@@ -11297,4 +11375,5 @@ jaopca:item_crushedpurifiednickel, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedosmium, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedplatinum, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedthorium, Purified Crushed %s Ore
+jaopca:fluid_moltenancientdebris, tile.jaopca.molten.name
 jaopca:fluid_moltenmithril, tile.jaopca.molten.name
